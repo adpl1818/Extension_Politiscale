@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent une vision traditionnelle des rôles de genre, en opposition aux théories de construction sociale du genre."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti reconnaît l'existence de discriminations mais les attribue souvent à des problèmes d'intégration plutôt qu'à un racisme systémique."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes valorisent une approche objective et factuelle des sciences, rejetant l'idée qu'elles soient entièrement construites socialement."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend une vision binaire et traditionnelle des genres, rejetant les approches déconstructivistes."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes mettent l'accent sur l'éducation et les structures sociales plutôt que sur des déterminismes biologiques."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette l'idée que l'orientation sexuelle soit uniquement une construction sociale, privilégiant une vision plus essentialiste."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti attribue les différences sociales à des facteurs culturels et historiques plutôt qu'à des déterminismes biologiques."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent une vision traditionnelle des rôles de genre, en partie justifiée par des différences biologiques."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti adhère à l'idée que les différences biologiques influencent les comportements et les traits de caractère."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes rejettent cette idée, mettant l'accent sur la responsabilité individuelle et la nécessité de lutter contre les violences."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une vision essentialiste du genre, en opposition aux revendications transgenres."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes valorisent l'identité nationale et culturelle, en insistant sur des traits communs et stables."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti privilégie une vision traditionnelle de la sexualité, en lien avec la reproduction."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes mettent l'accent sur la solidarité nationale et collective, rejetant l'idée d'un égoïsme inné."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti est farouchement opposé à la suppression des frontières, défendant la souveraineté nationale."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes privilégient la loyauté envers la nation par-dessus tout."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti est critique envers les politiques de repentance, privilégiant la défense des intérêts nationaux."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti est favorable au libre-échange sous conditions, notamment de réciprocité et de protection des intérêts nationaux."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes valorisent le patriotisme, y compris dans le sport."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti privilégie une vision nationaliste, mettant l'accent sur la priorité aux citoyens français."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent une stricte distinction entre citoyens et non-citoyens en matière de droits politiques."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une préférence nationale stricte dans tous les domaines."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes valorisent les traditions et les valeurs françaises, souvent perçues comme supérieures."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti rejette le multiculturalisme, prônant une assimilation culturelle et une identité nationale forte."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le patriotisme est une valeur centrale pour Les Patriotes."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient les interventions militaires si elles servent les intérêts nationaux."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes prônent un enseignement de l'Histoire qui renforce l'identité nationale."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti est favorable à la collaboration internationale sous conditions de réciprocité."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent la propriété privée et l'initiative individuelle."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette cette vision marxiste, défendant le modèle de l'entreprise privée."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent un système de santé public, tout en étant critiques envers sa gestion actuelle."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône un contrôle public des secteurs stratégiques comme l'énergie et les transports."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent la propriété intellectuelle comme moteur de l'innovation."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette cette approche planifiée, privilégiant le marché libre."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes critiquent certaines dérives mais défendent globalement le modèle économique actuel."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise l'initiative individuelle et la libre entreprise."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes défendent une société fondée sur le mérite et l'effort individuel."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient la diversité des modèles éducatifs, y compris privés."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes critiquent les délocalisations, prônant une relocalisation de l'économie."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une société fondée sur le mérite, tout en prônant une certaine solidarité nationale."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes soutiennent la propriété privée et l'initiative individuelle."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend un système bancaire privé, tout en critiquant certaines dérives."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes prônent une fiscalité modérée, critiquant les taxes excessives."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend un système de retraite solidaire, sans allongement excessif de la durée de travail."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes défendent la flexibilité du marché du travail, tout en protégeant les travailleurs."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient un salaire décent, tout en critiquant les interventions excessives de l'État."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes défendent une économie de marché régulée pour éviter les abus."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti prône une gestion rigoureuse des finances publiques."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent les subventions pour les secteurs stratégiques ou en difficulté."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend une régulation modérée pour éviter les dérives du marché."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes reconnaissent les déséquilibres de pouvoir entre employeurs et employés."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une simplification du code du travail pour favoriser l'emploi."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes défendent un équilibre entre productivité et qualité de vie."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient une régulation étatique pour protéger l'environnement."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes critiquent certaines dérives des aides sociales, prônant une réforme pour encourager le travail."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une gestion efficace des entreprises publiques, inspirée du secteur privé."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes valorisent les traditions et s'opposent à leur remise en cause systématique."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend la primauté de la langue française comme élément central de l'identité nationale."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent une vision traditionnelle du mariage comme institution sociale."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti prône une assimilation culturelle plutôt qu'un multiculturalisme."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes défendent une place pour la religion dans la société, tout en respectant la laïcité."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti valorise le rôle des institutions comme l'Académie française pour préserver la langue."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes défendent une vision conservatrice de la vie, opposée à l'euthanasie."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une vision traditionnelle de la famille, en opposition au mariage et à l'adoption pour les couples homosexuels."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes ne soutiennent pas officiellement la peine de mort, privilégiant d'autres moyens de justice."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une approche prudente face aux bouleversements technologiques."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes défendent une école qui transmet les valeurs nationales et traditionnelles."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une limitation de l'avortement, défendant une vision conservatrice de la vie."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes valorisent la famille, mais ne considèrent pas la procréation comme une obligation."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti ne soutient pas cette vision restrictive de la sexualité."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes reconnaissent l'importance de préserver la biodiversité."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une approche prudente face aux OGM, privilégiant la sécurité alimentaire."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes reconnaissent l'importance de lutter contre le réchauffement climatique, tout en prônant des solutions nationales."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une transition écologique raisonnée, sans excès."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes valorisent une agriculture durable et respectueuse de l'environnement."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti cherche un équilibre entre protection de l'environnement et développement économique."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent une approche responsable de la gestion des déchets."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie des solutions terrestres et nationales plutôt que des projets spatiaux coûteux."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent un développement qui améliore la qualité de vie, tout en préservant l'environnement."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise la recherche comme moteur de progrès économique."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes sont prudents face aux dérives potentielles du transhumanisme."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient l'énergie nucléaire comme solution pour l'indépendance énergétique."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes reconnaissent la nécessité des énergies fossiles dans la transition énergétique."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une croissance économique soutenue, tout en protégeant les intérêts nationaux."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent un système pénal fort pour maintenir l'ordre public."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient des peines minimales pour dissuader la criminalité."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes prônent une réinsertion encadrée pour réduire la récidive."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une justice individualisée, tout en maintenant une fermeté nécessaire."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes privilégient une justice ferme, sans excès de confort pour les détenus."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une protection des libertés individuelles, tout en reconnaissant l'utilité du fichage pour la sécurité."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes soutiennent la protection de la vie privée en ligne."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend une justice punitive pour maintenir l'ordre public."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes soutiennent une police forte et bien équipée pour assurer la sécurité."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône un équilibre entre sécurité et libertés, en faveur de la sécurité."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes valorisent l'ordre et l'autorité comme fondements de la société."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend des peines sévères pour dissuader la criminalité."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes prônent une approche préventive pour assurer la sécurité publique."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les grèves générales, privilégiant le dialogue social."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes rejettent la violence comme moyen d'action politique."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti prône des réformes institutionnelles plutôt que des révolutions violentes."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes défendent une action politique institutionnelle pour faire évoluer la société."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la démocratie électorale comme moyen de changement."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes rejettent le piratage comme méthode d'action politique."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti condamne le sabotage comme moyen d'action."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes prônent une action politique légale et respectueuse des institutions."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti critique les révolutions, privilégiant des réformes progressives."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes défendent une approche réformiste plutôt que révolutionnaire."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti rejette toute forme de violence comme moyen d'action."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Les Patriotes condamnent les violences lors des manifestations."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône le dialogue et les compromis pour faire avancer ses idées."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Les Patriotes reconnaissent l'impact des choix individuels sur la société."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend la laïcité et ne prône pas la diffusion d'une religion particulière."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Les Patriotes rejettent les théories du complot, privilégiant une analyse factuelle."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend une politique fondée sur des principes clairs, tout en étant pragmatique."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent la République et rejettent la monarchie."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti ne soutient pas une interdiction totale de l'exploitation animale, prônant une approche équilibrée."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Les Patriotes défendent un État fort et souverain."
+  }
+]

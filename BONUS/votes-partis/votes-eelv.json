@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient les théories féministes et les questions de genre, qui incluent l'idée que le genre est une construction sociale."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV est engagé dans la lutte contre les discriminations et le racisme, et reconnaît ces inégalités comme systémiques."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV reconnaît l'influence des contextes sociaux sur la production scientifique, bien qu'ils valorisent la science comme outil de progrès."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient les droits des personnes LGBTQ+ et la déconstruction des normes de genre traditionnelles."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une approche sociale et éducative pour prévenir la criminalité, rejetant les explications biologiques."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV reconnaît l'orientation sexuelle comme une réalité diverse, influencée par des facteurs biologiques et sociaux, mais pas uniquement construite."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV rejette toute explication biologique des différences sociales, insistant sur les causes historiques et systémiques."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV considère que les rôles de genre sont principalement des constructions sociales, rejetant les explications biologiques."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV met l'accent sur les facteurs sociaux plutôt que biologiques pour expliquer les différences de caractère."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette cette idée, insistant sur la responsabilité individuelle et les structures sociales qui perpétuent les violences."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV soutient pleinement les droits des personnes transgenres et reconnaît leur identité de genre."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette l'essentialisme culturel et prône une vision inclusive et diverse des identités."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend la diversité des orientations sexuelles et rejette les explications biologiques normatives."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV croit en la capacité des humains à coopérer et à agir pour le bien commun, influencée par les structures sociales."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône une vision internationaliste et solidaire, bien qu'ils reconnaissent les défis pratiques de cette idée."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV valorise les principes écologistes et sociaux, parfois au-dessus des intérêts nationaux."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV soutient la justice climatique et les réparations historiques pour les crimes coloniaux et environnementaux."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient le commerce équitable et durable, à condition que les normes sociales et environnementales soient respectées."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône le respect et l'inclusion, rejetant les comportements nationalistes excessifs."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend une vision internationaliste et solidaire, notamment sur les questions climatiques et sociales."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV soutient les droits des migrants et leur inclusion dans la vie politique."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV prône l'égalité de traitement entre citoyens et étrangers, notamment sur les questions sociales et environnementales."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette le nationalisme et prône le respect des cultures et des valeurs diverses."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend une société inclusive et multiculturelle, rejetant les discours xénophobes."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV valorise l'engagement écologiste et social plutôt que le patriotisme traditionnel."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV s'oppose aux interventions militaires motivées par des intérêts économiques, prônant la paix et la diplomatie."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV préfère une approche critique de l'Histoire, mettant en lumière les injustices et les luttes sociales."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV soutient le partage des connaissances scientifiques, notamment pour lutter contre les crises globales."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV critique les inégalités économiques et prône une redistribution des richesses."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient les modèles économiques alternatifs et une meilleure protection des travailleurs."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend un système de santé public et universel, accessible à tous."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône la nationalisation des secteurs stratégiques pour une transition écologique juste."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV critique les brevets qui entravent l'accès aux technologies, notamment dans le domaine médical."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient une économie planifiée et durable, centrée sur les besoins réels plutôt que sur le profit."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV critique les conditions de travail précaires et prône une meilleure protection des travailleurs."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette le modèle économique basé sur le profit individuel, prônant une économie solidaire et écologique."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique les inégalités sociales et économiques, soulignant l'importance des structures sociales."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV défend un système éducatif public et gratuit, accessible à tous."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV critique les délocalisations qui exploitent les travailleurs et détruisent l'environnement."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV prône une redistribution des richesses pour réduire les inégalités sociales."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV préfère une économie mixte avec un contrôle public des secteurs stratégiques."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV soutient la nationalisation des banques pour une économie plus juste et durable."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une fiscalité progressive pour réduire les inégalités et financer la transition écologique."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV défend un système de retraite solidaire et accessible, sans allonger l'âge de départ."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient une meilleure protection des travailleurs contre les licenciements abusifs."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend un salaire minimum décent et une meilleure répartition des richesses."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV critique les monopoles qui nuisent à la concurrence et à l'équité économique."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient une gestion publique des dettes, en fonction des besoins sociaux et écologiques."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône des subventions pour les secteurs écologiques et sociaux, afin de favoriser une transition juste."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV critique le libéralisme économique et prône une régulation forte pour protéger l'environnement et les travailleurs."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV reconnaît les déséquilibres de pouvoir entre employeurs et employés, et prône une meilleure protection des travailleurs."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend les droits des travailleurs et s'oppose à la dérégulation du marché du travail."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV prône une réduction du temps de travail pour améliorer la qualité de vie et l'équilibre écologique."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV soutient une régulation publique forte pour imposer des normes environnementales strictes."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend les aides sociales comme un droit et un moyen de lutter contre la pauvreté."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV prône une gestion publique axée sur l'intérêt général plutôt que sur la rentabilité."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV soutient une société ouverte et progressiste, où les traditions sont évaluées à l'aune des valeurs écologistes et sociales."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV défend la diversité culturelle et linguistique, y compris dans les institutions."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV soutient le mariage comme une institution ouverte à tous, y compris aux couples de même sexe."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV valorise le multiculturalisme et l'apport des migrants à la société."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône une société laïque où les religions n'influencent pas les décisions politiques."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient une vision dynamique et inclusive des langues, rejetant les normes rigides."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend le droit à une mort digne et à l'autodétermination des individus."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV soutient l'égalité des droits pour les personnes LGBTQ+ dans tous les domaines."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV s'oppose fermement à la peine de mort, prônant une justice réparatrice."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône une approche mesurée des innovations technologiques, en tenant compte de leurs impacts sociaux et environnementaux."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV soutient une éducation critique et ouverte, incluant les enjeux écologiques et sociaux."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend le droit à l'avortement sans restrictions, comme un droit fondamental."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette les normes sociales traditionnelles et défend la liberté de choix en matière de parentalité."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV soutient l'éducation sexuelle et l'accès à la contraception, rejetant les discours moralisateurs."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend la protection de la biodiversité et lutte contre les activités humaines destructrices."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV critique les OGM en agriculture, prônant une approche précautionneuse et écologique."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV place la lutte contre le réchauffement climatique au cœur de son programme politique."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une transition vers une alimentation durable et respectueuse de l'environnement."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV soutient une agriculture écologique et diversifiée, même si elle est moins productive."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV valorise la protection des écosystèmes, même si cela peut limiter certains développements économiques."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une économie circulaire et une réduction à la source des déchets."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique les solutions technologiques qui détournent de la nécessité de préserver les ressources terrestres."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV prône une approche respectueuse des écosystèmes, sans les transformer de manière irréversible."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient la recherche, mais insiste sur la nécessité de l'orienter vers des objectifs écologiques et sociaux."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique les dérives du transhumanisme, prônant une approche éthique et mesurée des technologies."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV s'oppose à l'énergie nucléaire, prônant une transition vers les énergies renouvelables."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette l'exploitation des énergies fossiles, insistant sur la nécessité d'une transition énergétique."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique le modèle de croissance infinie, prônant une économie durable et décroissante."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône une justice réparatrice et des alternatives à l'incarcération."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient une justice individualisée, prenant en compte le contexte de chaque affaire."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend une politique de réinsertion pour réduire la récidive et favoriser la réintégration sociale."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une justice individualisée et humaine, prenant en compte les circonstances de chaque cas."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend une réforme des prisons pour garantir des conditions de détention dignes."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV prône une protection stricte des données personnelles et des libertés individuelles."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV défend les libertés numériques et le droit à la vie privée en ligne."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV prône une justice réparatrice plutôt que punitive, visant à réintégrer plutôt qu'à exclure."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique la militarisation de la police et prône une approche plus sociale et préventive."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend les libertés civiles et s'oppose à leur restriction au nom de la sécurité."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique les abus d'autorité et prône une société basée sur la justice et l'égalité."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique l'efficacité des peines lourdes et prône une justice réparatrice."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette les mesures préventives liberticides et prône une approche basée sur la prévention sociale."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient les mouvements sociaux et les grèves comme moyens de lutte pour les droits."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette la violence comme moyen de lutte politique, prônant des méthodes pacifiques."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV prône des transformations sociales par des moyens démocratiques et non violents."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV croit en l'importance de militer à la fois dans et en dehors des institutions pour changer la société."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV reconnaît les limites du système électoral, mais croit en son potentiel pour amorcer des changements."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV soutient certaines formes de désobéissance civile numérique pour défendre des causes justes."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV reconnaît le sabotage comme un moyen de lutte dans des cas extrêmes, notamment pour protéger l'environnement."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV soutient la désobéissance civile comme un outil légitime pour défendre des causes justes."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV croit en la possibilité de transformations sociales profondes, bien que difficiles."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV prône des changements progressifs mais profonds, combinant réformes et actions directes."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV rejette toute forme de violence contre les personnes, prônant des méthodes pacifiques."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV reconnaît la complexité des mouvements sociaux et évite de condamner systématiquement les violences."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV croit en la nécessité de compromis pour avancer sur des questions clés, tout en restant fidèle à ses valeurs."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Absolument d'accord",
+		"developpement": "EELV valorise les actions individuelles comme moteur de transformations sociales et écologiques."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV défend une société laïque et rejette toute forme de prosélytisme religieux."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV critique les théories du complot et prône une analyse structurelle des problèmes sociaux."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "EELV croit en l'importance des idéologies pour guider les actions politiques, tout en restant pragmatique."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV rejette toute forme de monarchie, prônant une démocratie participative et inclusive."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "EELV défend une transition vers un mode de vie respectueux des animaux, incluant une réduction de la consommation de viande."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "EELV croit en la nécessité d'un État fort pour réguler l'économie et protéger l'environnement, tout en le réformant profondément."
+  }
+]

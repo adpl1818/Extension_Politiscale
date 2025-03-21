@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, étant progressiste et défendant les droits des femmes, serait probablement d'accord avec l'idée que le genre est une construction sociale, bien qu'il puisse nuancer cette position en reconnaissant également des aspects biologiques."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, engagé dans la lutte contre les discriminations, reconnaîtrait sans doute que le racisme est encore un problème majeur dans la société."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que progressiste, pourrait nuancer cette affirmation en reconnaissant que les sciences sont influencées par le contexte social, mais sans nier leur objectivité fondamentale."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des minorités de genre, serait probablement d'accord avec l'idée de dépasser les catégories binaires, tout en restant pragmatique sur les réalités sociales actuelles."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, progressiste et social, rejetterait l'idée d'une prédisposition naturelle à la criminalité, privilégiant des explications sociales et environnementales."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que progressiste, reconnaîtrait probablement que l'orientation sexuelle a des composantes biologiques et n'est pas uniquement une construction sociale."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, engagé contre le racisme, rejetterait toute explication biologique des différences sociales, privilégiant des explications historiques et sociales."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant l'égalité des genres, rejetterait l'idée que la biologie explique les rôles sociaux, privilégiant des explications culturelles et historiques."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant que les hormones jouent un rôle, mais insistant sur l'importance des facteurs sociaux et environnementaux."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton rejetterait catégoriquement cette idée, insistant sur le fait que les agressions sexuelles sont un problème de société et non une conséquence de la nature humaine."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des personnes transgenres, rejetterait cette affirmation, reconnaissant pleinement l'identité de genre des personnes trans."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, bien que défendant la culture bretonne, rejetterait l'idée de traits immuables, privilégiant une vision dynamique et évolutive de la culture."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits LGBTQ+, rejetterait l'idée que l'hétérosexualité est la seule orientation naturelle, reconnaissant la diversité des orientations sexuelles."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant la solidarité et la coopération, rejetterait l'idée que l'égoïsme est une caractéristique innée de l'être humain."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que défendant une certaine autonomie régionale, pourrait être favorable à une réduction des frontières dans une perspective de coopération internationale."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, engagé dans la défense de ses valeurs, pourrait considérer que les idéaux priment sur la loyauté nationale dans certains cas."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, soucieux de justice et de réparation, serait probablement d'accord avec l'idée que les pays doivent assumer leurs responsabilités historiques."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, favorable à la coopération internationale, pourrait soutenir le libre-échange dans des conditions équitables et respectueuses de l'environnement."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que fier de sa culture, rejetterait le chauvinisme excessif, privilégiant un esprit sportif et respectueux."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, engagé dans la solidarité internationale, pourrait se sentir concerné par les problèmes globaux tout en défendant les intérêts locaux."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant l'inclusion et l'égalité, pourrait soutenir l'idée que les étrangers résidents devraient avoir des droits politiques similaires."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que défendant les intérêts locaux, rejetterait l'idée d'une priorité absolue des citoyens sur les étrangers, privilégiant une approche inclusive."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, bien que fier de sa culture, rejetterait l'idée de supériorité des valeurs nationales, privilégiant le respect des différences culturelles."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant la diversité culturelle, rejetterait l'idée que le multiculturalisme est un danger, privilégiant une société inclusive."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant l'importance de l'engagement citoyen sans nécessairement l'associer au patriotisme."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant la paix et la coopération, rejetterait l'idée d'interventions militaires pour des raisons économiques."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, soucieux de préserver et de promouvoir la culture bretonne, pourrait soutenir l'idée d'un enseignement de l'Histoire qui renforce l'identité régionale."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, favorable à la coopération internationale, rejetterait l'idée de restreindre l'accès à la recherche, privilégiant le partage des connaissances."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, avec une tendance sociale, pourrait soutenir l'idée que l'enrichissement personnel ne doit pas se faire au détriment de la collectivité."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des travailleurs, pourrait considérer que le salariat dans certaines conditions peut être exploiteur."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant un système de santé accessible à tous, soutiendrait fermement que la santé doit rester un service public."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant les services publics, soutiendrait que l'énergie et les transports doivent être gérés par l'État pour garantir l'accès à tous."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, avec une tendance anti-capitaliste, pourrait soutenir l'idée que les brevets entravent l'innovation et l'accès aux connaissances."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant une économie planifiée et équitable, pourrait soutenir l'idée de rationnement basé sur les besoins réels."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des travailleurs, reconnaîtrait que le marché du travail actuel est souvent exploiteur."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, avec une tendance sociale, rejetterait l'idée que la recherche du profit personnel est bénéfique pour l'économie, privilégiant une approche collective."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, reconnaissant les inégalités structurelles, rejetterait l'idée que le mérite seul explique les différences de richesse."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant l'éducation publique, rejetterait l'idée que les écoles privées sont sans problème, privilégiant un système éducatif accessible à tous."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les emplois locaux, rejetterait l'idée que les délocalisations sont nécessaires, privilégiant une production locale et durable."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant une répartition plus équitable des richesses, rejetterait l'idée que les inégalités économiques sont acceptables."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant que certains secteurs peuvent être privés tout en défendant une forte régulation."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, avec une tendance sociale, rejetterait l'idée que les banques doivent rester privées, privilégiant un contrôle public sur le secteur financier."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant la justice sociale, soutiendrait fermement l'idée de taxer les revenus et le capital pour réduire les inégalités."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des travailleurs, rejetterait l'idée de repousser l'âge de la retraite, privilégiant une retraite digne et accessible."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant la sécurité de l'emploi, pourrait soutenir l'idée que les licenciements doivent être strictement encadrés."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant un salaire décent pour tous, soutiendrait fermement l'idée de contrôler les salaires pour garantir une vie digne."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant une économie équitable, soutiendrait l'idée de prévenir les monopoles pour protéger les consommateurs et les petites entreprises."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, avec une tendance anti-austérité, pourrait soutenir l'idée que les dettes publiques ne doivent pas toujours être remboursées, surtout si elles nuisent aux services publics."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant une économie planifiée, pourrait soutenir l'idée de subventionner des secteurs stratégiques ou des emplois socialement utiles."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant une économie régulée et équitable, rejetterait l'idée qu'une économie de marché non régulée est optimale."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, reconnaissant les déséquilibres de pouvoir entre employeurs et employés, rejetterait l'idée que les salariés sont pleinement libres dans la négociation de leur contrat."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des travailleurs, rejetterait l'idée de supprimer des règlementations pour favoriser l'embauche, privilégiant des conditions de travail décentes."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, prônant une meilleure qualité de vie, rejetterait catégoriquement l'idée d'augmenter le temps de travail."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant une régulation forte pour protéger l'environnement, rejetterait l'idée que la consommation seule peut garantir des normes environnementales."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant un système social solidaire, rejetterait l'idée que les aides sociales dissuadent de travailler, privilégiant une vision de soutien aux plus démunis."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les services publics, rejetterait l'idée que les entreprises publiques doivent être gérées comme des entreprises privées, privilégiant une logique de service public."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que défendant certaines traditions bretonnes, pourrait soutenir l'idée que les traditions doivent être réévaluées pour s'adapter aux réalités modernes."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant la diversité linguistique, pourrait soutenir l'idée d'ajouter ou de remplacer des langues officielles, tout en protégeant la langue bretonne."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que progressiste, rejetterait l'idée de supprimer le mariage, privilégiant une réforme pour inclure toutes les formes d'union."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant la diversité culturelle, reconnaîtrait que les étrangers apportent une richesse culturelle à la société."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant la laïcité, pourrait soutenir l'idée que l'influence de la religion doit diminuer dans la sphère publique."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant la langue bretonne, pourrait soutenir l'idée que les langues évoluent avec leurs locuteurs et ne doivent pas être rigidement contrôlées."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, progressiste et défendant les droits individuels, pourrait soutenir l'idée que l'euthanasie doit être autorisée dans des conditions strictes."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant l'égalité des droits, rejetterait catégoriquement toute discrimination basée sur l'orientation sexuelle."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits de l'homme, rejetterait catégoriquement l'idée que la peine de mort est justifiée dans quelque condition que ce soit."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant les avantages des progrès techniques tout en étant prudent face aux changements rapides."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, soucieux de préserver la culture bretonne, pourrait soutenir l'idée que l'école doit transmettre les valeurs et traditions locales tout en enseignant les connaissances fondamentales."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des femmes, rejetterait l'idée de limiter l'avortement, privilégiant un accès libre et sécurisé."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant la liberté individuelle, rejetterait l'idée que le but principal d'un couple est de procréer."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits sexuels et reproductifs, rejetterait catégoriquement l'idée que l'abstinence est préférable à la contraception."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, engagé dans la protection de l'environnement, soutiendrait fermement l'idée que les actions humaines ne doivent pas causer l'extinction d'espèces."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prudent face aux OGM, pourrait soutenir leur interdiction en dehors de la recherche et du secteur médical pour protéger l'environnement et la santé."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, engagé dans la lutte contre le changement climatique, soutiendrait fermement l'idée que le réchauffement climatique doit être combattu."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, soucieux de l'environnement, soutiendrait l'idée que les changements de consommation alimentaire sont nécessaires pour protéger la nature."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant une agriculture durable, soutiendrait fermement l'idée de préserver la biodiversité alimentaire, même au détriment du rendement."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, engagé dans la protection de l'environnement, pourrait soutenir l'idée que la préservation des écosystèmes est prioritaire sur la création d'emplois."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant une économie circulaire, soutiendrait fermement l'idée que la réduction des déchets passe par une réduction de la production."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, privilégiant des solutions terrestres et durables, rejetterait l'idée que la colonisation spatiale est une solution viable pour les ressources."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, soucieux de préserver les écosystèmes, rejetterait l'idée que leur transformation pour améliorer la qualité de vie humaine est légitime."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant une économie innovante, pourrait soutenir l'idée d'investir dans la recherche pour améliorer la productivité, tout en veillant à ce que cela ne se fasse pas au détriment de l'environnement ou des travailleurs."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant les avantages potentiels du transhumanisme tout en étant prudent face aux implications éthiques et sociales."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que privilégiant les énergies renouvelables, pourrait reconnaître que la fission nucléaire bien gérée est une source d'énergie viable à court terme."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, engagé dans la transition énergétique, rejetterait l'idée que l'exploitation des énergies fossiles est nécessaire, privilégiant les énergies renouvelables."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant une économie durable et équitable, rejetterait l'idée que la croissance économique forte doit être un objectif prioritaire."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que défendant une réforme du système pénitentiaire, rejetterait l'idée de supprimer complètement les prisons, privilégiant des alternatives pour les petits délits."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant une justice équitable, pourrait soutenir l'idée que les peines minimales sont injustes, privilégiant une approche individualisée."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant une justice réparatrice, soutiendrait fermement l'idée d'accompagner les anciens détenus dans leur réinsertion."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant une justice équitable, soutiendrait l'idée que les peines doivent être adaptées au contexte et au passé du condamné."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, prônant une justice humaine, soutiendrait fermement l'idée d'améliorer les conditions de vie des détenus."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant les libertés individuelles, soutiendrait fermement l'idée que le fichage doit être strictement encadré et le recoupage des bases de données interdit."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, soucieux de protéger les libertés numériques, soutiendrait fermement l'idée de garantir l'anonymat sur Internet."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant une justice réparatrice, rejetterait l'idée que le but principal du système judiciaire est de punir, privilégiant la réinsertion et la réparation."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant la nécessité de la sécurité tout en étant prudent face à la militarisation de la police."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les libertés individuelles, rejetterait l'idée que sacrifier des libertés civiles est nécessaire pour lutter contre le terrorisme."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant une société démocratique, rejetterait l'idée que l'ordre et l'autorité doivent être respectés en toutes circonstances, privilégiant le dialogue et la critique constructive."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant une justice équitable, rejetterait l'idée que les peines lourdes sont efficaces, privilégiant des approches plus réparatrices."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, défendant les droits individuels, rejetterait l'idée d'arrestations préventives, privilégiant une approche basée sur des preuves concrètes."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, défendant les droits des travailleurs, pourrait soutenir l'idée que la grève générale est un moyen efficace de faire avancer les droits sociaux."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant des méthodes pacifiques, rejetterait l'idée que la lutte armée est nécessaire, privilégiant des moyens démocratiques pour faire avancer les causes."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que progressiste, rejetterait l'idée que l'insurrection est nécessaire, privilégiant des réformes démocratiques et pacifiques."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, engagé dans la politique institutionnelle, rejetterait l'idée que militer au sein des institutions est inutile, privilégiant une approche réformiste."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que critique des institutions, rejetterait l'idée que les élections ne peuvent pas remettre en question les pouvoirs en place, privilégiant une participation démocratique."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant que le piratage peut être un outil de lutte tout en étant prudent face à ses implications légales et éthiques."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, prônant des méthodes pacifiques, rejetterait l'idée que le sabotage est légitime, privilégiant des moyens légaux et démocratiques."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, bien que progressiste, pourrait soutenir l'idée que le militantisme doit respecter la loi, tout en cherchant à la changer par des moyens démocratiques."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le Parti Breton pourrait être hésitant sur cette question, reconnaissant que les révolutions peuvent avoir des conséquences négatives tout en étant un moyen de changement profond."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant une approche réformiste, pourrait soutenir l'idée que les changements radicaux sont contre-productifs, privilégiant des transformations progressives."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le Parti Breton, défendant des méthodes pacifiques, soutiendrait fermement l'idée que la violence contre les personnes n'est jamais une solution."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant des manifestations pacifiques, pourrait soutenir l'idée de se désolidariser des violences commises par les manifestants."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, engagé dans la politique institutionnelle, pourrait soutenir l'idée de faire des compromis pour faire avancer ses idées."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, prônant une société plus juste et durable, pourrait soutenir l'idée que les changements individuels peuvent influencer la société."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant la laïcité, rejetterait catégoriquement l'idée que la religion doit se diffuser largement, privilégiant la liberté de croyance."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, bien que critique des élites, rejetterait l'idée d'un petit groupe contrôlant secrètement le monde, privilégiant une analyse plus complexe des structures de pouvoir."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le Parti Breton, ayant des valeurs claires, rejetterait l'idée que la politique doit être sans idéologie, privilégiant une approche basée sur des principes progressistes."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, défendant la démocratie, rejetterait catégoriquement l'idée de mettre en place une monarchie."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Breton, soucieux du bien-être animal, pourrait soutenir l'idée que les humains ne doivent pas exploiter les animaux, privilégiant des alternatives végétales."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le Parti Breton, bien que critique des structures étatiques actuelles, rejetterait catégoriquement l'idée d'abolir l'État, privilégiant une réforme profonde des institutions."
+  }
+]

@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le Parti Animaliste se concentre sur les droits des animaux, mais soutient généralement les causes progressistes, y compris les questions de genre."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient l'égalité et la justice sociale, ce qui inclut la lutte contre le racisme."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti reconnaît l'influence des contextes sociaux sur les sciences, tout en valorisant les preuves scientifiques pour défendre ses positions."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient les idées progressistes sur le genre, bien que son focus principal reste les droits des animaux."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti croit en l'importance des facteurs sociaux et environnementaux plutôt qu'en des déterminismes biologiques."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît la diversité des orientations sexuelles comme naturelle, sans les réduire à des constructions sociales."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti rejette les explications biologiques des inégalités sociales, privilégiant des analyses structurelles et sociales."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie des explications sociales et culturelles plutôt que biologiques pour les rôles de genre."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti met l'accent sur les facteurs sociaux et environnementaux plutôt que sur des déterminismes biologiques."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette cette idée, insistant sur la responsabilité individuelle et les structures sociales qui permettent ces violences."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient les droits des personnes transgenres et reconnaît leur identité de genre."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette les essentialismes culturels ou nationaux, privilégiant une vision inclusive et diverse."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti reconnaît la diversité des orientations sexuelles comme naturelle et légitime."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la capacité des humains à agir de manière altruiste, surtout dans un cadre social et environnemental favorable."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une vision globaliste et inclusive, bien que son focus principal reste les droits des animaux."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise les principes éthiques et moraux, même s'ils entrent en conflit avec les intérêts nationaux."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient la justice réparatrice et la responsabilité historique."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient le libre échange si les normes environnementales et sociales sont respectées."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône le respect et l'inclusion, rejetant les comportements excessivement nationalistes."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti adopte une perspective globaliste et inclusive, en accord avec ses valeurs de justice et d'égalité."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient l'égalité des droits pour tous, indépendamment de la nationalité."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti prône l'égalité et rejette les discriminations basées sur la nationalité."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette le nationalisme et prône le respect des cultures et valeurs diverses."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti valorise la diversité culturelle et rejette les discours anti-multiculturalistes."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie une citoyenneté basée sur des valeurs éthiques plutôt que sur le patriotisme."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette les interventions militaires motivées par des intérêts économiques."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti préfère une éducation critique et inclusive plutôt que nationaliste."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient le partage des connaissances et la collaboration internationale."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti critique les inégalités économiques et soutient une redistribution des richesses."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti dénonce l'exploitation des travailleurs et soutient des modèles économiques plus justes."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient les services publics et l'accès universel à la santé."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône la gestion publique des ressources essentielles pour garantir l'équité et la durabilité."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti critique les brevets qui entravent l'accès aux innovations, surtout dans le domaine médical et environnemental."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une gestion démocratique et rationnelle des ressources pour éviter le gaspillage."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti dénonce les conditions de travail injustes et soutient des réformes pour protéger les travailleurs."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les modèles économiques basés sur le profit individuel au détriment du bien-être collectif."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît que les inégalités de richesse sont souvent dues à des structures sociales injustes plutôt qu'au mérite individuel."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient l'éducation publique et gratuite pour tous, rejetant la privatisation de l'éducation."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les délocalisations qui exploitent les travailleurs et nuisent à l'environnement."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti lutte contre les inégalités économiques et prône une redistribution des richesses."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti préfère une gestion publique des secteurs stratégiques pour garantir l'équité et la durabilité."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique le pouvoir des banques privées et soutient des modèles financiers plus équitables."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient une fiscalité progressive pour réduire les inégalités."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend des conditions de travail et de retraite justes et humaines."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient une protection forte des travailleurs contre les licenciements abusifs."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti défend des salaires décents pour tous les travailleurs."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti critique les monopoles qui nuisent à la concurrence et à l'équité économique."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une gestion flexible de la dette publique pour préserver les services essentiels."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient les subventions pour les secteurs stratégiques, notamment ceux liés à l'environnement et au bien-être animal."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti critique les dérives de l'économie de marché non régulée et prône une régulation forte."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît les déséquilibres de pouvoir entre employeurs et employés, limitant la liberté réelle des travailleurs."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend des protections fortes pour les travailleurs et rejette la dérégulation."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient une réduction du temps de travail pour améliorer la qualité de vie des travailleurs."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti prône une régulation forte par les autorités pour garantir des normes environnementales strictes."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend les aides sociales comme un droit essentiel pour garantir la dignité des individus."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient une gestion publique axée sur le bien-être collectif plutôt que sur la rentabilité."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une société ouverte et critique, où les traditions sont évaluées à l'aune des valeurs éthiques et progressistes."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise la diversité culturelle et linguistique."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient les droits des couples, mais ne prône pas nécessairement la suppression du mariage."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti valorise la diversité culturelle et l'apport des étrangers à la société."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une séparation stricte entre religion et État, et une société laïque."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une vision démocratique et évolutive de la langue."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti défend le droit à une mort digne et autonome."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient l'égalité des droits pour toutes les orientations sexuelles."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette la peine de mort en toutes circonstances."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient les avancées technologiques, à condition qu'elles soient éthiques et durables."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti prône une éducation critique, inclusive et tournée vers l'avenir plutôt que centrée sur les traditions."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend le droit à l'avortement sans restrictions."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette les normes sociales qui imposent des modèles familiaux spécifiques."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient l'accès à la contraception et rejette les discours moralisateurs sur la sexualité."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti lutte contre la destruction de la biodiversité causée par les activités humaines."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti critique les OGM dans l'agriculture en raison de leurs impacts potentiels sur l'environnement et la santé."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti place la lutte contre le réchauffement climatique au cœur de son programme."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une transition vers des modes de consommation plus durables et respectueux de l'environnement."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient une agriculture durable et respectueuse de la biodiversité."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti privilégie la protection de l'environnement, même si cela peut limiter certains développements économiques."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient une réduction à la source des déchets plutôt que des solutions de gestion a posteriori."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les solutions technologiques qui détournent l'attention des problèmes environnementaux terrestres."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie la préservation des écosystèmes plutôt que leur transformation pour des gains humains."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient la recherche, à condition qu'elle soit orientée vers des objectifs éthiques et durables."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti est sceptique face aux promesses du transhumanisme, craignant des dérives éthiques et sociales."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique l'énergie nucléaire en raison des risques environnementaux et des déchets radioactifs."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti prône une transition rapide vers des énergies renouvelables."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique la croissance économique infinie et prône une économie plus durable et équitable."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient des alternatives à la prison, axées sur la réinsertion et la justice réparatrice."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône une justice individualisée, prenant en compte le contexte et les circonstances."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient des programmes de réinsertion pour réduire la récidive et favoriser la réintégration sociale."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une justice individualisée et humaine."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti défend des conditions de détention dignes et humaines."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une protection forte des données personnelles et des libertés individuelles."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti défend les libertés numériques et le droit à la vie privée."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie une justice réparatrice plutôt que punitive."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique la militarisation de la police et prône des méthodes de maintien de l'ordre moins violentes."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend les libertés civiles et rejette les mesures sécuritaires excessives."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les abus d'autorité et prône une société plus démocratique et participative."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti rejette l'idée que les peines lourdes sont efficaces et prône des solutions alternatives."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les arrestations préventives et défend les droits individuels."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient les mouvements sociaux et les grèves comme moyens de lutte pour les droits."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie des méthodes non-violentes pour transformer la société."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient des changements progressifs et démocratiques plutôt que des insurrections."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en l'importance de militer à la fois dans et hors des institutions pour changer la société."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît les limites des élections, mais croit en leur potentiel pour amorcer des changements."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient des formes de désobéissance civile, y compris numérique, pour défendre des causes justes."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti reconnaît le sabotage comme un outil de lutte dans des contextes spécifiques, notamment pour défendre l'environnement."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient des formes de désobéissance civile pour défendre des causes justes."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît que les révolutions peuvent apporter des changements positifs, même si elles sont complexes."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la nécessité de changements radicaux pour répondre aux crises environnementales et sociales."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône des méthodes non-violentes pour transformer la société."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît que la violence peut émerger dans des contextes de répression, sans nécessairement la justifier."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti croit en l'importance du dialogue et des compromis pour avancer vers des objectifs communs."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti valorise les actions individuelles comme moteur de transformation sociale."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend une société laïque et rejette les prosélytismes religieux."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les théories du complot et privilégie des analyses structurelles des problèmes sociaux."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en l'importance des idéologies pour guider des politiques justes et durables."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend une démocratie participative et rejette les systèmes monarchiques."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti place la défense des droits des animaux au cœur de son programme."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la nécessité d'un État fort pour garantir les droits sociaux et environnementaux."
+  }
+]

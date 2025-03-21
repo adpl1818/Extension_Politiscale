@@ -1,0 +1,1055 @@
+[
+    {
+        "index": "Question 1 sur 117",
+        "question": "« On ne naît pas femme, on le devient. »",
+        "Absolument d'accord": "npa, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, resistons, unser-land, upr",
+        "Absolument pas d'accord": "reconquete, rn, patriotes"
+    },
+    {
+        "index": "Question 2 sur 117",
+        "question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, udr, lr, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "reconquete, rn",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 3 sur 117",
+        "question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Neutre ou hésitant": "centriste, modem, udi, corsica-libera, radical, lrem, unser-land",
+        "Plutôt pas d'accord": "dlf, lr, resistons, upr",
+        "Absolument pas d'accord": "udr, reconquete, rn, patriotes"
+    },
+    {
+        "index": "Question 4 sur 117",
+        "question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+        "Absolument d'accord": "npa, rev, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, generations, corsica-libera, ecologie-au-centre, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, modem, udi, radical, lrem",
+        "Absolument pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 5 sur 117",
+        "question": "Personne n’est prédisposé à la criminalité par sa nature.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 6 sur 117",
+        "question": "L'orientation sexuelle est une construction sociale",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "npa, lo",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, centriste, rev, dlf, udr, lr, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, unser-land, pcf, upr, animaliste, breton",
+        "Absolument pas d'accord": "reconquete, rn, patriotes"
+    },
+    {
+        "index": "Question 7 sur 117",
+        "question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, dlf, udr, lr, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "reconquete, rn, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 8 sur 117",
+        "question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, ps, centriste, rev, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, animaliste, breton",
+        "Absolument pas d'accord": "lfi, npa, eelv, generations, lo, pcf"
+    },
+    {
+        "index": "Question 9 sur 117",
+        "question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "ps, centriste, rev, modem, udi, radical, ecologie-au-centre, lrem, breton",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, generations, corsica-libera, lo, pcf, animaliste",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 10 sur 117",
+        "question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, dlf, udr, lr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, lo, pcf, upr, animaliste, patriotes, breton"
+    },
+    {
+        "index": "Question 11 sur 117",
+        "question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, reconquete, rn, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lr, resistons, udi, unser-land, upr",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 12 sur 117",
+        "question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, udi, corsica-libera, radical",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, ecologie-au-centre, lrem, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 13 sur 117",
+        "question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, reconquete, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, lr, resistons, udi, radical, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, modem, corsica-libera, ecologie-au-centre, lrem, lo, pcf, animaliste"
+    },
+    {
+        "index": "Question 14 sur 117",
+        "question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "unser-land",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, centriste, rev, dlf, udr, lr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "npa, lo, pcf"
+    },
+    {
+        "index": "Question 15 sur 117",
+        "question": "À terme, les frontières doivent être supprimées.",
+        "Absolument d'accord": "npa, rev, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, generations, corsica-libera, radical, ecologie-au-centre, animaliste, breton",
+        "Neutre ou hésitant": "modem, lrem",
+        "Plutôt pas d'accord": "centriste, udi",
+        "Absolument pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 16 sur 117",
+        "question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste, breton",
+        "Neutre ou hésitant": "ps, radical",
+        "Plutôt pas d'accord": "centriste, modem, udi, lrem, unser-land",
+        "Absolument pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes"
+    },
+    {
+        "index": "Question 17 sur 117",
+        "question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, lr, modem, resistons, udi, radical, lrem, unser-land, upr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, reconquete, rn, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 18 sur 117",
+        "question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+        "Absolument d'accord": "lr",
+        "Plutôt d'accord": "place-publique, eelv, ps, centriste, rev, dlf, udr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, upr, animaliste, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, npa, lo, pcf",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 19 sur 117",
+        "question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, pcf, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 20 sur 117",
+        "question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+        "Absolument d'accord": "lfi, npa, eelv, rev, ecologie-au-centre, lo, pcf, animaliste",
+        "Plutôt d'accord": "place-publique, ps, generations, modem, corsica-libera, radical, breton",
+        "Neutre ou hésitant": "centriste, udi, lrem",
+        "Plutôt pas d'accord": "dlf, udr, lr, resistons, unser-land, upr",
+        "Absolument pas d'accord": "reconquete, rn, patriotes"
+    },
+    {
+        "index": "Question 21 sur 117",
+        "question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+        "Absolument d'accord": "lfi, npa, eelv, rev, lo, pcf, animaliste",
+        "Plutôt d'accord": "place-publique, ps, generations, corsica-libera, ecologie-au-centre, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, lr, modem, resistons, udi, radical, lrem, unser-land",
+        "Absolument pas d'accord": "dlf, udr, reconquete, rn, upr, patriotes"
+    },
+    {
+        "index": "Question 22 sur 117",
+        "question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "centriste, modem, udi, radical, lrem, unser-land",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 23 sur 117",
+        "question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, modem, udi, radical, lrem",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 24 sur 117",
+        "question": "Le multiculturalisme est un danger pour notre société.",
+        "Absolument d'accord": "dlf, reconquete, rn, patriotes",
+        "Plutôt d'accord": "udr, lr, resistons, unser-land, upr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, udi, radical, lrem",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, modem, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 25 sur 117",
+        "question": "Un bon citoyen est patriote.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "centriste, modem, udi, radical, lrem, unser-land",
+        "Neutre ou hésitant": "ps, corsica-libera, breton",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, ecologie-au-centre, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 26 sur 117",
+        "question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, rn, upr, patriotes",
+        "Neutre ou hésitant": "lrem, unser-land",
+        "Plutôt pas d'accord": "ps, centriste, modem, resistons, udi, radical, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste"
+    },
+    {
+        "index": "Question 27 sur 117",
+        "question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "ps, centriste, modem, udi, corsica-libera, radical, lrem, unser-land, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, ecologie-au-centre, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 28 sur 117",
+        "question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "rn",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, unser-land, upr, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 29 sur 117",
+        "question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+        "Absolument d'accord": "npa, rev, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, generations, corsica-libera, ecologie-au-centre, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, modem, radical, upr",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, reconquete, resistons, udi, rn, lrem, unser-land, patriotes"
+    },
+    {
+        "index": "Question 30 sur 117",
+        "question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+        "Absolument d'accord": "npa, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, radical, upr",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, patriotes"
+    },
+    {
+        "index": "Question 31 sur 117",
+        "question": "Il est important que la santé reste du domaine public.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, dlf, generations, resistons, corsica-libera, radical, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "centriste, udr, lr, modem, reconquete, udi, rn, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 32 sur 117",
+        "question": "L'énergie et les infrastructures de transport doivent être publiques.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, dlf, lr, modem, reconquete, resistons, rn, radical, unser-land, patriotes",
+        "Neutre ou hésitant": "udi, lrem",
+        "Plutôt pas d'accord": "udr",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 33 sur 117",
+        "question": "Les brevets ne devraient pas exister.",
+        "Absolument d'accord": "npa, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, radical, upr",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, patriotes"
+    },
+    {
+        "index": "Question 34 sur 117",
+        "question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+        "Absolument d'accord": "npa, rev, lo, pcf",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, generations, corsica-libera, ecologie-au-centre, upr, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, dlf, lr, modem, resistons, udi, radical, lrem, unser-land",
+        "Absolument pas d'accord": "udr, reconquete, rn, patriotes"
+    },
+    {
+        "index": "Question 35 sur 117",
+        "question": "Le marché du travail surexploite les travailleurs.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, modem, resistons, radical, upr",
+        "Neutre ou hésitant": "lrem",
+        "Plutôt pas d'accord": "udr, lr, reconquete, udi, rn, unser-land, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 36 sur 117",
+        "question": "La recherche de son profit personnel est saine pour l'économie.",
+        "Absolument d'accord": "udr, lr",
+        "Plutôt d'accord": "centriste, dlf, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, ps, ecologie-au-centre, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, npa, eelv, rev, generations, corsica-libera, lo, pcf"
+    },
+    {
+        "index": "Question 37 sur 117",
+        "question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "centriste",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, npa, lo, pcf"
+    },
+    {
+        "index": "Question 38 sur 117",
+        "question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+        "Absolument d'accord": "udr, lr",
+        "Plutôt d'accord": "centriste, dlf, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, generations, corsica-libera, ecologie-au-centre, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, npa, rev, lo, pcf"
+    },
+    {
+        "index": "Question 39 sur 117",
+        "question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr, lr",
+        "Neutre ou hésitant": "lrem",
+        "Plutôt pas d'accord": "place-publique, ps, centriste, dlf, modem, reconquete, resistons, udi, rn, radical, ecologie-au-centre, unser-land, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "lfi, npa, eelv, rev, generations, corsica-libera, lo, pcf, upr"
+    },
+    {
+        "index": "Question 40 sur 117",
+        "question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, udi, rn, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, centriste, modem, radical, upr, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste"
+    },
+    {
+        "index": "Question 41 sur 117",
+        "question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, lrem, patriotes",
+        "Plutôt d'accord": "ps, centriste, modem, udi, radical, unser-land, upr",
+        "Neutre ou hésitant": "breton",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, animaliste",
+        "Absolument pas d'accord": "npa, lo, pcf"
+    },
+    {
+        "index": "Question 42 sur 117",
+        "question": "Les banques doivent rester privées.",
+        "Absolument d'accord": "udr, lr",
+        "Plutôt d'accord": "centriste, dlf, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, ecologie-au-centre, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, lo, pcf"
+    },
+    {
+        "index": "Question 43 sur 117",
+        "question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, lr, modem, reconquete, resistons, udi, lrem, unser-land, upr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, rn, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 44 sur 117",
+        "question": "Nous devrions partir à la retraite plus tard.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr, lr, modem, reconquete, udi, rn, radical, lrem",
+        "Neutre ou hésitant": "centriste",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, rev, dlf, generations, resistons, corsica-libera, ecologie-au-centre, unser-land, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "lfi, npa, lo, pcf"
+    },
+    {
+        "index": "Question 45 sur 117",
+        "question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+        "Absolument d'accord": "lfi, npa, rev, corsica-libera, lo, pcf, animaliste",
+        "Plutôt d'accord": "place-publique, eelv, ps, centriste, dlf, generations, modem, resistons, radical, ecologie-au-centre, unser-land, upr, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, lr, reconquete, udi, rn, lrem, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 46 sur 117",
+        "question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, dlf, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "centriste, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 47 sur 117",
+        "question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 48 sur 117",
+        "question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, radical, upr",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, patriotes"
+    },
+    {
+        "index": "Question 49 sur 117",
+        "question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+        "Absolument d'accord": "place-publique, eelv, rev, corsica-libera, ecologie-au-centre, pcf, animaliste",
+        "Plutôt d'accord": "lfi, npa, ps, centriste, dlf, udr, lr, generations, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, lo, upr, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 50 sur 117",
+        "question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, dlf, lr, reconquete, resistons, udi, rn, radical, lrem, unser-land, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, modem, corsica-libera, ecologie-au-centre, lo, pcf, upr, animaliste, breton"
+    },
+    {
+        "index": "Question 51 sur 117",
+        "question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, centriste, dlf, lr, modem, reconquete, resistons, udi, rn, radical, ecologie-au-centre, lrem, unser-land, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "lfi, npa, rev, generations, corsica-libera, lo, pcf"
+    },
+    {
+        "index": "Question 52 sur 117",
+        "question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr, lr, reconquete, udi, rn, lrem, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, dlf, modem, resistons, radical, unser-land, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, upr, animaliste"
+    },
+    {
+        "index": "Question 53 sur 117",
+        "question": "Le temps de travail par semaine devrait être augmenté.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, udi, rn, radical, lrem, unser-land, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, resistons, corsica-libera, ecologie-au-centre, lo, pcf, upr, animaliste, breton"
+    },
+    {
+        "index": "Question 54 sur 117",
+        "question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, centriste, rev, dlf, lr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, pcf, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 55 sur 117",
+        "question": "Les aides sociales dissuadent de travailler.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr, lr, reconquete, rn, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, dlf, modem, resistons, udi, radical, lrem, unser-land, upr",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 56 sur 117",
+        "question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "centriste, udr, lr, modem, reconquete, udi, rn, radical, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, dlf, resistons, ecologie-au-centre, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, lo, pcf"
+    },
+    {
+        "index": "Question 57 sur 117",
+        "question": "Toute tradition doit pouvoir être remise en question.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, corsica-libera, ecologie-au-centre, lo, pcf, animaliste",
+        "Plutôt d'accord": "ps, centriste, generations, modem, udi, radical, lrem, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, unser-land, upr, patriotes",
+        "Absolument pas d'accord": "rn"
+    },
+    {
+        "index": "Question 58 sur 117",
+        "question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, pcf, animaliste, breton",
+        "Neutre ou hésitant": "centriste",
+        "Plutôt pas d'accord": "lr, modem, udi, lrem, unser-land",
+        "Absolument pas d'accord": "dlf, udr, reconquete, resistons, rn, upr, patriotes"
+    },
+    {
+        "index": "Question 59 sur 117",
+        "question": "Il faut supprimer le mariage.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "npa, lo",
+        "Neutre ou hésitant": "rev, corsica-libera",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, generations, radical, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 60 sur 117",
+        "question": "Les étrangers enrichissent notre culture.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, lr, modem, resistons, udi, lrem, upr",
+        "Neutre ou hésitant": "unser-land",
+        "Plutôt pas d'accord": "dlf, udr, reconquete, rn, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 61 sur 117",
+        "question": "L'influence de la religion doit diminuer.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, pcf, upr, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, unser-land, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 62 sur 117",
+        "question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+        "Absolument d'accord": "npa, corsica-libera, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, modem, udi, radical, ecologie-au-centre, unser-land, pcf, animaliste, breton",
+        "Neutre ou hésitant": "lrem",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 63 sur 117",
+        "question": "L'euthanasie doit être autorisée.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste",
+        "Plutôt d'accord": "ps, centriste, modem, resistons, udi, radical, lrem, breton",
+        "Neutre ou hésitant": "unser-land",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, rn, upr, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 64 sur 117",
+        "question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "reconquete, rn, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, unser-land",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, upr, animaliste, breton"
+    },
+    {
+        "index": "Question 65 sur 117",
+        "question": "Dans certaines conditions, la peine de mort est justifiée.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "reconquete, rn",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, upr, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, lr, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, unser-land, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 66 sur 117",
+        "question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "eelv, rev, dlf, udr, lr, reconquete, resistons, udi, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "ps, centriste, corsica-libera, radical, lrem, breton",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, generations, modem, ecologie-au-centre, lo, pcf, animaliste",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 67 sur 117",
+        "question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "ps, centriste, modem, udi, corsica-libera, radical, lrem, unser-land, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, ecologie-au-centre, lo, pcf, animaliste",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 68 sur 117",
+        "question": "L'avortement devrait être limité à des cas précis.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, reconquete, rn, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, lr, modem, resistons, udi, radical, upr, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, lrem, lo, pcf, animaliste"
+    },
+    {
+        "index": "Question 69 sur 117",
+        "question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "reconquete, rn",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, resistons, udi, radical, unser-land, upr, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, corsica-libera, ecologie-au-centre, lrem, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 70 sur 117",
+        "question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, reconquete, rn, unser-land, upr, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, lr, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, animaliste, breton"
+    },
+    {
+        "index": "Question 71 sur 117",
+        "question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, dlf, generations, resistons, corsica-libera, radical, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "centriste, udr, lr, modem, reconquete, udi, rn, lrem, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 72 sur 117",
+        "question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "lfi, place-publique, npa, eelv, ps, rev, dlf, generations, resistons, corsica-libera, rn, radical, ecologie-au-centre, unser-land, lo, pcf, upr, animaliste, patriotes, breton",
+        "Neutre ou hésitant": "centriste, lrem",
+        "Plutôt pas d'accord": "udr, lr, modem, reconquete, udi",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 73 sur 117",
+        "question": "Le réchauffement climatique doit être combattu.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, dlf, lr, generations, modem, resistons, udi, corsica-libera, radical, ecologie-au-centre, lrem, lo, pcf, upr, animaliste, breton",
+        "Plutôt d'accord": "udr, reconquete, rn, unser-land, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 74 sur 117",
+        "question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, lr, modem, reconquete, resistons, udi, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, rn",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 75 sur 117",
+        "question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, dlf, lr, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 76 sur 117",
+        "question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+        "Absolument d'accord": "npa",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, rev, generations, modem, corsica-libera, radical, ecologie-au-centre, lo, pcf, upr, animaliste, breton",
+        "Neutre ou hésitant": "centriste, udi, lrem, unser-land",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, resistons, rn, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 77 sur 117",
+        "question": "La réduction des déchets doit se faire par une réduction de la production.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, dlf, lr, modem, reconquete, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, rn",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 78 sur 117",
+        "question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr",
+        "Neutre ou hésitant": "ps, modem, udi, lrem",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, centriste, rev, dlf, lr, generations, reconquete, resistons, corsica-libera, rn, radical, ecologie-au-centre, unser-land, lo, pcf, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 79 sur 117",
+        "question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "place-publique, ps, dlf, udr, lr, modem, reconquete, resistons, udi, rn, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "centriste",
+        "Plutôt pas d'accord": "lfi, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 80 sur 117",
+        "question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, modem, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, lo, pcf, upr, animaliste, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "npa",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 81 sur 117",
+        "question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "udr",
+        "Neutre ou hésitant": "ps, centriste, rev, modem, udi, corsica-libera, radical, ecologie-au-centre, lrem, unser-land, breton",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, dlf, lr, generations, reconquete, resistons, rn, lo, pcf, upr, animaliste, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 82 sur 117",
+        "question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, rn",
+        "Plutôt d'accord": "ps, centriste, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 83 sur 117",
+        "question": "L'exploitation des énergies fossiles est nécessaire.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, rn, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, centriste, modem, resistons, udi, radical, lrem, unser-land, upr, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste"
+    },
+    {
+        "index": "Question 84 sur 117",
+        "question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+        "Absolument d'accord": "udr, lr, reconquete, rn",
+        "Plutôt d'accord": "ps, centriste, dlf, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 85 sur 117",
+        "question": "Les prisons ne devraient plus exister.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, eelv, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, ps, radical, breton",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 86 sur 117",
+        "question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "lfi, place-publique, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, pcf, animaliste, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 87 sur 117",
+        "question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, resistons, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "dlf, udr, lr, modem, reconquete, udi, rn, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 88 sur 117",
+        "question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 89 sur 117",
+        "question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "centriste, dlf, lr, modem, resistons, udi, lrem, unser-land, upr",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, reconquete, rn, patriotes",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 90 sur 117",
+        "question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, dlf, lr, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, reconquete, rn",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 91 sur 117",
+        "question": "Il faut garantir le droit d'être anonyme sur Internet.",
+        "Absolument d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Plutôt d'accord": "ps, centriste, dlf, lr, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "udr, reconquete, rn",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 92 sur 117",
+        "question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+        "Absolument d'accord": "dlf, udr, reconquete, rn",
+        "Plutôt d'accord": "centriste, lr, modem, resistons, udi, lrem, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, npa, eelv, ps, rev, generations, corsica-libera, radical, ecologie-au-centre, lo, pcf, animaliste, breton",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 93 sur 117",
+        "question": "La police doit être armée.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "ps, centriste, modem, udi, radical, lrem, unser-land",
+        "Neutre ou hésitant": "breton",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 94 sur 117",
+        "question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, udi, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "centriste, lrem",
+        "Plutôt pas d'accord": "place-publique, ps, rev, generations, modem, resistons, corsica-libera, radical, ecologie-au-centre, animaliste, breton",
+        "Absolument pas d'accord": "lfi, npa, eelv, lo, pcf"
+    },
+    {
+        "index": "Question 95 sur 117",
+        "question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, rn, upr, patriotes",
+        "Plutôt d'accord": "centriste, modem, resistons, udi, radical, lrem, unser-land",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, rev, generations, corsica-libera, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 96 sur 117",
+        "question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+        "Absolument d'accord": "reconquete, rn",
+        "Plutôt d'accord": "dlf, udr, lr, resistons, udi, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "centriste, lrem",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, rev, generations, modem, corsica-libera, radical, ecologie-au-centre, animaliste, breton",
+        "Absolument pas d'accord": "npa, lo, pcf"
+    },
+    {
+        "index": "Question 97 sur 117",
+        "question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, rn, patriotes",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, centriste, modem, resistons, udi, radical, lrem, unser-land, upr, animaliste, breton",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, rev, generations, corsica-libera, ecologie-au-centre, lo, pcf"
+    },
+    {
+        "index": "Question 98 sur 117",
+        "question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+        "Absolument d'accord": "lfi, npa, rev, corsica-libera, lo, pcf, animaliste",
+        "Plutôt d'accord": "place-publique, eelv, ps, generations, radical, ecologie-au-centre, upr, breton",
+        "Neutre ou hésitant": "centriste, lrem",
+        "Plutôt pas d'accord": "dlf, udr, lr, modem, reconquete, resistons, udi, unser-land, patriotes",
+        "Absolument pas d'accord": "rn"
+    },
+    {
+        "index": "Question 99 sur 117",
+        "question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "npa, lo",
+        "Neutre ou hésitant": "corsica-libera",
+        "Plutôt pas d'accord": "lfi, rev, generations, radical, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "place-publique, eelv, ps, centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 100 sur 117",
+        "question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+        "Absolument d'accord": "lo",
+        "Plutôt d'accord": "npa, corsica-libera",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, eelv, rev, generations, radical, ecologie-au-centre, pcf, animaliste, breton",
+        "Absolument pas d'accord": "place-publique, ps, centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 101 sur 117",
+        "question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+        "Absolument d'accord": "lo",
+        "Plutôt d'accord": "npa",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, ps, centriste, rev, generations, udi, corsica-libera, radical, ecologie-au-centre, unser-land, pcf, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "dlf, udr, lr, modem, reconquete, resistons, rn, lrem"
+    },
+    {
+        "index": "Question 102 sur 117",
+        "question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+        "Absolument d'accord": "lo",
+        "Plutôt d'accord": "lfi, npa, rev, pcf",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, centriste, dlf, udr, lr, generations, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, unser-land, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "modem, lrem"
+    },
+    {
+        "index": "Question 103 sur 117",
+        "question": "Le piratage informatique est un moyen légitime de lutte politique.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "lfi, npa, eelv, rev, corsica-libera, lo, pcf, animaliste",
+        "Neutre ou hésitant": "breton",
+        "Plutôt pas d'accord": "place-publique, ps, generations, radical, ecologie-au-centre",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 104 sur 117",
+        "question": "Le sabotage est légitime dans certaines conditions.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "lfi, npa, eelv, rev, corsica-libera, lo, pcf, animaliste",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, ps, generations, radical, ecologie-au-centre, breton",
+        "Absolument pas d'accord": "centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, lrem, unser-land, upr, patriotes"
+    },
+    {
+        "index": "Question 105 sur 117",
+        "question": "Il faut toujours militer dans le strict respect de la loi.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr, patriotes",
+        "Plutôt d'accord": "place-publique, ps, centriste, generations, modem, udi, radical, ecologie-au-centre, lrem, unser-land, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, eelv, rev, corsica-libera, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 106 sur 117",
+        "question": "Les révolutions sont condamnées à toujours finir mal.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "dlf, udr, lr, reconquete, resistons, udi, rn, unser-land, upr, patriotes",
+        "Neutre ou hésitant": "ps, centriste, lrem, breton",
+        "Plutôt pas d'accord": "lfi, place-publique, eelv, rev, generations, modem, corsica-libera, radical, ecologie-au-centre, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 107 sur 117",
+        "question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, resistons, rn, upr",
+        "Plutôt d'accord": "place-publique, eelv, ps, centriste, generations, modem, udi, radical, ecologie-au-centre, lrem, unser-land, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, rev, corsica-libera, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 108 sur 117",
+        "question": "La violence contre les personnes n'est jamais une solution.",
+        "Absolument d'accord": "place-publique, eelv, ps, dlf, udr, lr, generations, reconquete, resistons, rn, radical, ecologie-au-centre, upr, animaliste, patriotes, breton",
+        "Plutôt d'accord": "lfi, centriste, rev, modem, udi, corsica-libera, lrem, unser-land, pcf",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "npa, lo",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 109 sur 117",
+        "question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+        "Absolument d'accord": "dlf, udr, lr, reconquete, rn, patriotes",
+        "Plutôt d'accord": "place-publique, ps, centriste, generations, modem, resistons, udi, radical, ecologie-au-centre, lrem, unser-land, upr, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, eelv, rev, corsica-libera, pcf, animaliste",
+        "Absolument pas d'accord": "npa, lo"
+    },
+    {
+        "index": "Question 110 sur 117",
+        "question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+        "Absolument d'accord": "lr, resistons, radical",
+        "Plutôt d'accord": "place-publique, eelv, ps, centriste, rev, dlf, udr, generations, modem, reconquete, udi, corsica-libera, rn, ecologie-au-centre, lrem, unser-land, pcf, upr, animaliste, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, npa, lo",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 111 sur 117",
+        "question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+        "Absolument d'accord": "eelv, animaliste",
+        "Plutôt d'accord": "lfi, place-publique, npa, ps, centriste, rev, dlf, udr, lr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, pcf, upr, patriotes, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lo",
+        "Absolument pas d'accord": ""
+    },
+    {
+        "index": "Question 112 sur 117",
+        "question": "Ma religion doit se diffuser le plus largement possible.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "dlf, udr, lr, reconquete, udi, rn, radical, unser-land, patriotes",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, generations, modem, resistons, corsica-libera, ecologie-au-centre, lrem, lo, pcf, upr, animaliste, breton"
+    },
+    {
+        "index": "Question 113 sur 117",
+        "question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "pcf",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, npa, eelv, rev, generations, corsica-libera, rn, lo, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "place-publique, ps, centriste, dlf, udr, lr, modem, reconquete, resistons, udi, radical, ecologie-au-centre, lrem, unser-land"
+    },
+    {
+        "index": "Question 114 sur 117",
+        "question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "centriste, udr, lr, modem, resistons, udi, radical, lrem, unser-land",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "place-publique, eelv, ps, dlf, generations, reconquete, rn, ecologie-au-centre, upr, animaliste, patriotes, breton",
+        "Absolument pas d'accord": "lfi, npa, rev, corsica-libera, lo, pcf"
+    },
+    {
+        "index": "Question 115 sur 117",
+        "question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+        "Absolument d'accord": "",
+        "Plutôt d'accord": "",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "",
+        "Absolument pas d'accord": "lfi, place-publique, npa, eelv, ps, centriste, rev, dlf, udr, lr, generations, modem, reconquete, resistons, udi, corsica-libera, rn, radical, ecologie-au-centre, lrem, unser-land, lo, pcf, upr, animaliste, patriotes, breton"
+    },
+    {
+        "index": "Question 116 sur 117",
+        "question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+        "Absolument d'accord": "npa, rev, animaliste",
+        "Plutôt d'accord": "lfi, place-publique, eelv, generations, corsica-libera, ecologie-au-centre, lo, pcf, breton",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "ps, centriste, dlf, lr, modem, resistons, udi, radical, lrem, unser-land, upr, patriotes",
+        "Absolument pas d'accord": "udr, reconquete, rn"
+    },
+    {
+        "index": "Question 117 sur 117",
+        "question": "L’État doit être aboli.",
+        "Absolument d'accord": "npa, lo",
+        "Plutôt d'accord": "rev, corsica-libera",
+        "Neutre ou hésitant": "",
+        "Plutôt pas d'accord": "lfi, generations, pcf, animaliste",
+        "Absolument pas d'accord": "place-publique, eelv, ps, centriste, dlf, udr, lr, modem, reconquete, resistons, udi, rn, radical, ecologie-au-centre, lrem, unser-land, upr, patriotes, breton"
+    }
+]

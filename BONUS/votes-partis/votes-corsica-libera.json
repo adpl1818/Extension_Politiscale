@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera soutient généralement les droits individuels et pourrait être d'accord avec l'idée que le genre est une construction sociale."
+	},
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti est sensible aux questions de discrimination et d'inégalité, souvent abordées dans leur discours."
+	},
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Corsica Libera n'a pas de position claire sur les questions épistémologiques, mais pourrait être sceptique face à l'idée que la science est entièrement conditionnée par la société."
+	},
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir cette idée dans le cadre de son engagement pour les droits individuels et contre les discriminations."
+	},
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera rejette les déterminismes biologiques et soutient que les conditions sociales influencent les comportements."
+	},
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît généralement l'orientation sexuelle comme une caractéristique individuelle plutôt que comme une construction sociale."
+	},
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera rejette les explications biologiques des différences sociales, privilégiant des explications socio-économiques et culturelles."
+	},
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti préfère expliquer les rôles de genre par des facteurs sociaux et culturels plutôt que biologiques."
+	},
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera met l'accent sur les influences sociales et culturelles plutôt que biologiques dans la formation des traits de caractère."
+	},
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette cette idée, considérant que les agressions sexuelles sont un problème de société et de culture, non de biologie."
+	},
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera soutient les droits des personnes transgenres et leur droit à être reconnues dans leur genre."
+	},
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti valorise la diversité culturelle mais rejette l'idée de traits immuables, préférant une vision dynamique de la culture."
+	},
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera soutient la diversité des orientations sexuelles et rejette les déterminismes biologiques."
+	},
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la capacité des individus à agir collectivement et rejette l'idée que l'égoïsme est une caractéristique innée."
+	},
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera, bien qu'indépendantiste, pourrait soutenir l'idée de frontières ouvertes dans un contexte de solidarité internationale."
+	},
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise les idéaux de liberté et d'autodétermination, même s'ils entrent en conflit avec les structures étatiques existantes."
+	},
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient la justice réparatrice et la responsabilité historique."
+	},
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir le libre-échange dans des conditions d'égalité et de respect des normes sociales et environnementales."
+	},
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera prône le respect et la solidarité, rejetant le chauvinisme excessif."
+	},
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti a une vision internationaliste et solidaire, bien qu'il soit fortement ancré dans la défense des droits corses."
+	},
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera soutient les droits des minorités et pourrait être favorable à une participation politique élargie."
+	},
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti rejette les discriminations basées sur la nationalité et prône l'égalité des droits."
+	},
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera valorise la diversité culturelle et rejette toute idée de supériorité culturelle."
+	},
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient le multiculturalisme comme une richesse et non comme une menace."
+	},
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Corsica Libera valorise l'engagement pour la communauté, mais pourrait être critique envers une conception étroite du patriotisme."
+	},
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette les interventions militaires motivées par des intérêts économiques."
+	},
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera pourrait soutenir une éducation qui renforce l'identité corse, bien que dans un cadre critique et inclusif."
+	},
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient le partage des connaissances et la coopération internationale."
+	},
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera critique souvent les inégalités économiques et pourrait soutenir une limitation de l'enrichissement personnel basé sur la propriété."
+	},
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti est critique envers l'exploitation des travailleurs par le capitalisme."
+	},
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient les services publics et l'accès universel à la santé."
+	},
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône la gestion publique des ressources essentielles."
+	},
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera pourrait soutenir l'idée que les brevets entravent l'innovation et l'accès aux connaissances."
+	},
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir une planification démocratique de l'économie."
+	},
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera critique souvent les conditions de travail et l'exploitation des travailleurs."
+	},
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette l'idée que la recherche du profit personnel est bénéfique pour la société."
+	},
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera met en avant les inégalités structurelles plutôt que le mérite individuel."
+	},
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient l'éducation publique et gratuite pour tous."
+	},
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera critique les délocalisations pour leurs impacts négatifs sur les travailleurs et les communautés locales."
+	},
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti lutte contre les inégalités économiques et sociales."
+	},
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera préfère une gestion publique ou coopérative des industries stratégiques."
+	},
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti critique le rôle des banques privées dans les crises économiques et soutient une banque publique."
+	},
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient une fiscalité progressive pour réduire les inégalités."
+	},
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend les droits des travailleurs et s'oppose à l'augmentation de l'âge de la retraite."
+	},
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient la protection des emplois et les droits des travailleurs."
+	},
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti lutte pour des salaires décents et une vie digne pour les travailleurs."
+	},
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera critique la concentration du pouvoir économique et soutient la régulation des monopoles."
+	},
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir l'idée que certaines dettes publiques sont illégitimes et ne devraient pas être remboursées."
+	},
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient les politiques de soutien à l'emploi et aux secteurs stratégiques."
+	},
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti critique l'économie de marché non régulée et prône une économie plus juste et régulée."
+	},
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera reconnaît les déséquilibres de pouvoir entre employeurs et employés."
+	},
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend les droits des travailleurs et s'oppose à la dérégulation du marché du travail."
+	},
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera soutient la réduction du temps de travail pour améliorer la qualité de vie."
+	},
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti préfère une régulation publique des normes environnementales plutôt que de laisser le marché décider."
+	},
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera soutient les aides sociales comme un droit et rejette l'idée qu'elles découragent le travail."
+	},
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti critique la logique de marché dans la gestion des entreprises publiques et prône une gestion axée sur le bien commun."
+	},
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient la critique des traditions qui perpétuent des inégalités ou des injustices."
+	},
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise la diversité linguistique et culturelle."
+	},
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Corsica Libera n'a pas de position claire sur cette question, mais pourrait soutenir des formes alternatives de reconnaissance des unions."
+	},
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti reconnaît l'apport des étrangers à la diversité culturelle."
+	},
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera prône la laïcité et une diminution de l'influence religieuse dans la société."
+	},
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient l'idée que la langue est vivante et évolue avec ses locuteurs."
+	},
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient le droit à l'autodétermination, y compris en fin de vie."
+	},
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend l'égalité des droits pour tous, indépendamment de l'orientation sexuelle."
+	},
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera rejette la peine de mort en toutes circonstances."
+	},
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le parti pourrait être prudent face aux changements technologiques rapides, mais n'a pas de position claire."
+	},
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera valorise l'éducation comme moyen de transmettre la culture et les valeurs, tout en étant critique envers certaines traditions."
+	},
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend le droit à l'avortement sans restrictions."
+	},
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera rejette les normes sociales qui imposent des modèles familiaux spécifiques."
+	},
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient l'accès à la contraception et rejette les discours moralisateurs sur la sexualité."
+	},
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera est sensible aux questions environnementales et à la protection de la biodiversité."
+	},
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait être prudent face aux OGM, privilégiant une approche de précaution."
+	},
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient les actions pour lutter contre le changement climatique."
+	},
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une transition vers des modes de consommation plus durables."
+	},
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient une agriculture respectueuse de l'environnement et de la biodiversité."
+	},
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise la protection de l'environnement, même si cela peut limiter certains développements économiques."
+	},
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient une approche de décroissance et de réduction des déchets à la source."
+	},
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti pourrait préférer des solutions terrestres et durables plutôt que la colonisation spatiale."
+	},
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera pourrait être critique envers les transformations des écosystèmes, privilégiant leur préservation."
+	},
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient la recherche, mais pourrait préférer qu'elle soit orientée vers des objectifs sociaux et environnementaux plutôt que purement productivistes."
+	},
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Corsica Libera n'a pas de position claire sur le transhumanisme, mais pourrait être prudent face à ses implications sociales."
+	},
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti pourrait préférer les énergies renouvelables et être critique envers le nucléaire."
+	},
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera soutient la transition énergétique et rejette l'exploitation des énergies fossiles."
+	},
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique la croissance économique comme objectif principal, privilégiant une approche plus durable et équitable."
+	},
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera pourrait soutenir des alternatives à la prison, privilégiant la réinsertion et la justice réparatrice."
+	},
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait être critique envers les peines minimales obligatoires, préférant une justice individualisée."
+	},
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient la réinsertion sociale des anciens détenus."
+	},
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti prône une justice individualisée et prenant en compte les circonstances."
+	},
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient l'amélioration des conditions de détention et le respect des droits des prisonniers."
+	},
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti défend les libertés individuelles et la protection des données personnelles."
+	},
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Corsica Libera soutient la protection de la vie privée et l'anonymat en ligne."
+	},
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti préfère une justice réparatrice et éducative plutôt que punitive."
+	},
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera pourrait être critique envers la militarisation de la police, privilégiant des approches alternatives."
+	},
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend les libertés civiles et rejette les restrictions au nom de la sécurité."
+	},
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera critique l'autoritarisme et prône la défense des droits individuels."
+	},
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti rejette l'idée que les peines lourdes sont efficaces, privilégiant des approches alternatives."
+	},
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera rejette les arrestations préventives, défendant les droits individuels et la présomption d'innocence."
+	},
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient les mouvements sociaux et la grève comme moyen de lutte."
+	},
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Corsica Libera, bien que prônant des moyens pacifiques, pourrait reconnaître la légitimité de la lutte armée dans certains contextes extrêmes."
+	},
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir l'idée que des changements radicaux nécessitent des actions fortes, bien qu'il privilégie les moyens pacifiques."
+	},
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera participe aux élections et croit en l'importance de militer au sein des institutions tout en les critiquant."
+	},
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti critique les limites du système électoral, mais participe aux élections pour faire avancer ses idées."
+	},
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera pourrait soutenir le piratage comme moyen de résistance contre des systèmes oppressifs."
+	},
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait reconnaître la légitimité du sabotage dans des contextes de lutte contre l'oppression."
+	},
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera reconnaît que certaines luttes nécessitent de dépasser le cadre légal."
+	},
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti croit en la possibilité de changements radicaux positifs, bien qu'il soit conscient des risques."
+	},
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera prône des changements radicaux pour atteindre ses objectifs politiques."
+	},
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti privilégie les moyens pacifiques, mais pourrait reconnaître la légitimité de la violence dans des contextes extrêmes."
+	},
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera pourrait refuser de condamner systématiquement les violences dans les mouvements sociaux, reconnaissant leur complexité."
+	},
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait accepter des compromis tactiques pour faire avancer ses objectifs."
+	},
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera reconnaît l'importance des actions individuelles dans les transformations sociales."
+	},
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti prône la laïcité et rejette toute forme de prosélytisme religieux."
+	},
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Corsica Libera critique les élites, mais rejette les théories du complot."
+	},
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend une politique basée sur des idéaux clairs et rejette le pragmatisme sans principes."
+	},
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Corsica Libera rejette la monarchie et prône une république démocratique."
+	},
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti pourrait soutenir une réduction de l'exploitation animale, bien qu'il n'ait pas de position officielle claire."
+	},
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Corsica Libera, en tant que mouvement indépendantiste, pourrait soutenir l'idée d'une transformation radicale de l'État, bien qu'il participe aux institutions existantes."
+	}
+]

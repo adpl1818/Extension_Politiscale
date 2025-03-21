@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Politiscale",
+  "version": "1.0",
+  "description": "Analyse les réponses Politiscale en comparant aux partis",
+  "permissions": [
+	"activeTab",
+	"http://*/*",
+	"https://*/*",
+	"storage"
+  ],
+  "content_scripts": [
+	{
+	  "matches": ["*://politiscales.fr/*"],
+	  "js": ["content.js"]
+	}
+  ],
+  "web_accessible_resources": [
+	"votes_total.json",
+	"logos-partis/*.png"
+  ]
+}

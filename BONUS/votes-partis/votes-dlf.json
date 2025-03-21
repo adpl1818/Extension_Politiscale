@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une vision traditionnelle des rôles de genre, en accord avec une perspective biologique et culturelle."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF reconnaît les problèmes de racisme mais privilégie une approche républicaine et universaliste pour les résoudre."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF valorise la science comme un domaine objectif et indépendant des constructions sociales."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF s'oppose fermement à la déconstruction des catégories de genre, défendant une vision traditionnelle."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF croit en l'importance de l'éducation et de l'environnement social plutôt qu'à une prédétermination biologique."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF considère l'orientation sexuelle comme une réalité biologique et non comme une construction sociale."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF rejette toute explication biologique des différences sociales, privilégiant des facteurs socio-économiques."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF admet une influence biologique mais insiste sur l'importance des rôles culturels et éducatifs."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF reconnaît l'impact des facteurs biologiques sur les différences de genre."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF rejette cette idée, insistant sur la responsabilité individuelle et l'éducation."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend une vision traditionnelle du genre, en lien avec la biologie."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF valorise l'identité nationale et culturelle comme un élément central de la cohésion sociale."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend une vision traditionnelle de la sexualité, en lien avec la reproduction."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF croit en la capacité des individus à agir pour le bien commun, notamment grâce à l'éducation et aux institutions."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF est un parti souverainiste qui défend fermement le maintien des frontières nationales."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF privilégie la loyauté envers la nation et les institutions républicaines."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF est critique envers les politiques de repentance et privilégie une approche pragmatique des relations internationales."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient le libre-échange sous conditions de réciprocité et de protection des intérêts nationaux."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF valorise le patriotisme, y compris dans le domaine sportif."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF privilégie une approche nationale et souverainiste, mettant en avant les intérêts des citoyens français."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend une stricte distinction entre citoyens et non-citoyens en matière de droits politiques."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF prône une préférence nationale dans l'accès aux services publics et aux droits sociaux."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF valorise les valeurs républicaines françaises et les considère comme universelles."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF critique le multiculturalisme, privilégiant l'assimilation et l'unité nationale."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF met en avant le patriotisme comme une vertu civique essentielle."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une politique étrangère pragmatique, y compris des interventions militaires si nécessaire."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF valorise un enseignement de l'Histoire qui renforce l'identité nationale."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF soutient la collaboration internationale en recherche, tout en protégeant les intérêts nationaux."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend la propriété privée et l'initiative individuelle."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF soutient le modèle de l'entreprise privée et rejette cette vision marxiste."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF défend un système de santé public et universel."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF privilégie le contrôle public des secteurs stratégiques comme l'énergie et les transports."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF soutient la propriété intellectuelle comme moteur de l'innovation."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF rejette une économie planifiée et privilégie le marché libre, sous régulation."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF critique les excès du libéralisme économique et défend les droits des travailleurs."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient l'initiative individuelle tout en prônant une régulation pour éviter les abus."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF valorise le mérite mais reconnaît l'importance des conditions sociales et éducatives."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient la liberté de choix éducatif tout en défendant un système public fort."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF critique les délocalisations et défend une politique industrielle nationale."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF reconnaît les inégalités comme une réalité mais prône une redistribution modérée."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF soutient l'initiative privée tout en régulant les secteurs stratégiques."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend un système bancaire privé mais régulé pour éviter les abus."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une fiscalité redistributive modérée."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend un âge de départ à la retraite raisonnable pour protéger les travailleurs."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend une protection forte des emplois tout en permettant des ajustements économiques."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF soutient un salaire minimum décent et une régulation des salaires."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF critique les monopoles et prône une concurrence régulée."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend une gestion rigoureuse des finances publiques et le remboursement des dettes."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient les subventions pour les secteurs stratégiques et les emplois locaux."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF prône une régulation modérée de l'économie de marché pour éviter les excès."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF reconnaît les déséquilibres de pouvoir entre employeurs et employés."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une régulation protectrice des travailleurs tout en favorisant l'emploi."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF privilégie une réduction du temps de travail pour améliorer la qualité de vie."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF soutient une régulation étatique pour protéger l'environnement."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend un système d'aides sociales tout en prônant des incitations à l'emploi."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF privilégie une gestion publique des entreprises publiques, axée sur l'intérêt général."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une vision conservatrice des traditions et des valeurs."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend fermement la primauté de la langue française."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF valorise l'institution du mariage comme pilier de la société."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF critique le multiculturalisme et privilégie l'assimilation."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une place modérée de la religion dans la société, en accord avec la laïcité."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF soutient le rôle des institutions comme l'Académie française pour préserver la langue."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF est prudent sur cette question, privilégiant une approche éthique et conservatrice."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une vision traditionnelle de la famille mais reconnaît certains droits aux couples homosexuels."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF ne soutient pas officiellement la peine de mort, privilégiant des peines sévères mais respectueuses des droits humains."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF prône une approche prudente face aux changements technologiques rapides."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF défend une école qui transmet les valeurs républicaines et les savoirs fondamentaux."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF est prudent sur cette question, privilégiant une régulation stricte de l'avortement."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF valorise la famille mais ne considère pas la procréation comme une obligation."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF ne soutient pas cette position, privilégiant une approche pragmatique de la sexualité."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF soutient la protection de l'environnement et la biodiversité."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF est prudent sur les OGM, privilégiant une régulation stricte."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF reconnaît l'importance de la lutte contre le réchauffement climatique."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une transition écologique modérée."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF valorise une agriculture durable et respectueuse de l'environnement."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF cherche un équilibre entre protection de l'environnement et développement économique."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une approche écologique modérée, incluant la réduction des déchets."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF privilégie des solutions terrestres et durables plutôt que la colonisation spatiale."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient un développement respectueux de l'environnement mais axé sur le bien-être humain."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF valorise la recherche comme moteur de progrès économique et social."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF est prudent face au transhumanisme, privilégiant une approche éthique et mesurée."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF soutient l'énergie nucléaire comme pilier de la transition énergétique."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF reconnaît la nécessité temporaire des énergies fossiles tout en prônant une transition écologique."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une croissance économique modérée et durable."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend un système pénal fort et la nécessité des prisons."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF soutient des peines minimales pour garantir une justice ferme et équitable."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF prône une réinsertion sociale pour réduire la récidive."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient une justice individualisée et équitable."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend des conditions de détention dignes tout en maintenant une justice ferme."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF prône un équilibre entre sécurité et respect des libertés individuelles."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF défend les libertés individuelles tout en régulant les abus en ligne."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF valorise une justice punitive et dissuasive."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF soutient une police bien équipée pour garantir l'ordre public."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF privilégie la sécurité nationale tout en respectant les libertés fondamentales."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF valorise l'ordre public et le respect des institutions."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF soutient des peines sévères pour dissuader la criminalité."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF privilégie la sécurité publique, même au détriment de certaines libertés individuelles."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF critique les grèves générales, privilégiant le dialogue social."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF rejette toute forme de violence politique."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend une transformation progressive et pacifique de la société."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF valorise l'action politique institutionnelle comme moyen de changement."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF croit en la démocratie électorale comme moyen de changement politique."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF rejette toute forme de piratage, privilégiant des moyens légaux de contestation."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF condamne le sabotage comme moyen d'action politique."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF valorise une action politique légale et respectueuse des institutions."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF privilégie une transformation progressive plutôt que révolutionnaire."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF défend une approche réformiste et progressive."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF rejette toute forme de violence politique."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Absolument d'accord",
+		"developpement": "DLF condamne les violences lors des manifestations."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF prône le dialogue et les compromis pour faire avancer ses idées."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "DLF reconnaît l'impact des choix individuels sur la société."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une laïcité stricte et ne prône pas la diffusion des religions."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF rejette les théories du complot."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF défend une politique ancrée dans des valeurs et des principes clairs."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF est républicain et rejette toute forme de monarchie."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "DLF reconnaît l'importance des animaux mais ne soutient pas un véganisme strict."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "DLF défend un État fort et souverain."
+  }
+]

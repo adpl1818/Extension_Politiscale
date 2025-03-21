@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient les théories féministes et les études de genre, qui affirment que le genre est une construction sociale."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI dénonce régulièrement les inégalités raciales et soutient des politiques antiracistes."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI reconnaît l'influence des contextes sociaux sur la production scientifique, tout en valorisant la science comme outil de progrès."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient les droits des personnes transgenres et une vision non binaire du genre."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI insiste sur les causes sociales de la criminalité plutôt que sur des prédispositions biologiques."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend les droits LGBTQ+ et reconnaît l'orientation sexuelle comme une réalité individuelle, non uniquement sociale."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI rejette toute explication biologique des inégalités sociales, privilégiant des causes historiques et structurelles."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI s'oppose à toute justification biologique des rôles de genre, insistant sur leur construction sociale."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI rejette les explications biologiques des différences de caractère, privilégiant des facteurs sociaux et culturels."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI dénonce les violences sexuelles comme un problème de société et de culture, pas de nature biologique."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI soutient pleinement les droits des personnes transgenres et leur reconnaissance dans leur genre identifié."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette l'essentialisme culturel et défend une vision inclusive et diverse de la nation."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend la diversité des orientations sexuelles et rejette toute norme hétérosexuelle comme naturelle."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI prône la solidarité et rejette l'idée que l'égoïsme soit une caractéristique innée de l'humanité."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI défend une vision internationaliste et critique les frontières comme outils d'exclusion."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI valorise les idéaux de justice et de solidarité par-dessus les notions traditionnelles de patriotisme."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI soutient la reconnaissance des crimes coloniaux et la réparation des dommages causés."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique le libre-échange, même entre pays similaires, en raison de ses impacts négatifs sur les travailleurs et l'environnement."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI prône le respect et l'universalisme, rejetant le nationalisme exacerbé même dans le sport."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend une vision internationaliste et solidaire, transcendant les frontières nationales."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI soutient les droits politiques des étrangers résidant en France, y compris le droit de vote aux élections locales."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une approche inclusive et égalitaire, rejetant toute priorité basée sur la nationalité."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette le nationalisme et défend l'égalité des cultures et des valeurs."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI valorise la diversité culturelle et rejette les discours anti-multiculturalistes."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI définit le bon citoyen par son engagement pour la justice et la solidarité, pas par le patriotisme."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI s'oppose aux interventions militaires motivées par des intérêts économiques."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI prône une approche critique de l'Histoire, mettant en lumière les luttes sociales plutôt que le nationalisme."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend la science ouverte et la coopération internationale en matière de recherche."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique l'accumulation de richesse par la propriété et prône une redistribution des richesses."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI dénonce l'exploitation des travailleurs par le capitalisme et défend des modèles économiques alternatifs."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend un système de santé public et universel, rejetant toute privatisation."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône la nationalisation des secteurs stratégiques comme l'énergie et les transports."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique les brevets comme outils de monopolisation et défend l'accès libre aux connaissances."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient une planification démocratique de l'économie pour répondre aux besoins sociaux."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI dénonce régulièrement les conditions de travail précaires et l'exploitation des travailleurs."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI critique l'individualisme et prône une économie basée sur la solidarité et la coopération."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette le méritocratisme et insiste sur les inégalités structurelles comme cause des différences de richesse."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend un système éducatif entièrement public et gratuit, rejetant la privatisation."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI dénonce les délocalisations comme une menace pour les emplois et les droits des travailleurs."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI prône une redistribution des richesses pour réduire les inégalités sociales."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend la nationalisation des secteurs clés de l'économie et critique la privatisation."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI prône la nationalisation des banques pour les mettre au service de l'intérêt général."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend une fiscalité progressive et redistributive pour réduire les inégalités."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI s'oppose à toute réforme des retraites qui allongerait la durée de travail."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend une législation protectrice pour les travailleurs, limitant les licenciements abusifs."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône un salaire minimum décent et des contrôles pour éviter l'exploitation."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI critique les monopoles privés et défend une économie diversifiée et contrôlée démocratiquement."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique la dette publique comme outil de domination et prône des audits citoyens pour annuler les dettes illégitimes."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient les subventions pour les secteurs stratégiques et les emplois socialement utiles."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI critique le libéralisme économique et défend une régulation forte de l'économie."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI dénonce les déséquilibres de pouvoir entre employeurs et salariés, limitant la liberté réelle des travailleurs."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend le code du travail comme outil de protection des droits des travailleurs."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI prône une réduction du temps de travail pour améliorer les conditions de vie."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une régulation publique forte pour imposer des normes environnementales, rejetant la logique du marché."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette les discours stigmatisant les bénéficiaires d'aides sociales et défend leur nécessité pour lutter contre la pauvreté."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend une gestion démocratique des entreprises publiques, axée sur l'intérêt général plutôt que sur le profit."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône une société progressiste, où les traditions sont évaluées à l'aune de leur impact social."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI défend la diversité linguistique et culturelle, y compris la reconnaissance des langues régionales."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI soutient le mariage comme institution ouverte à tous, y compris aux couples homosexuels."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI valorise l'apport des étrangers à la culture française et défend une société inclusive."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI défend la laïcité et une séparation stricte entre l'État et les religions."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient une vision démocratique et évolutive de la langue, rejetant les rigidités institutionnelles."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend le droit à une mort digne, y compris l'euthanasie sous conditions strictes."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend l'égalité totale des droits pour les personnes LGBTQ+."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI s'oppose fermement à la peine de mort en toutes circonstances."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une approche critique mais ouverte aux progrès techniques, à condition qu'ils servent l'intérêt général."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI prône une éducation émancipatrice, critique et ouverte sur le monde, plutôt que centrée sur les traditions."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend le droit à l'avortement sans restriction et sans condition."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette toute norme reproductive et défend la liberté de choix en matière de parentalité."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend l'accès libre et gratuit à la contraception et rejette les discours moralisateurs sur la sexualité."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI dénonce la destruction de la biodiversité et défend des politiques environnementales fortes."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique les OGM dans l'agriculture en raison de leurs risques environnementaux et sanitaires."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend des mesures radicales pour lutter contre le réchauffement climatique."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône une transition écologique, y compris dans les habitudes alimentaires."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI soutient une agriculture durable et respectueuse de la biodiversité."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI défend une approche écologique qui ne sacrifie pas l'environnement au profit de l'emploi."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône une décroissance sélective et une réduction de la surproduction."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique les solutions technologiques comme la colonisation spatiale, privilégiant une gestion durable des ressources terrestres."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une approche écologique respectueuse des écosystèmes, rejetant les transformations massives."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient la recherche, mais insiste sur son orientation vers l'intérêt général plutôt que la productivité."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique le transhumanisme comme une fuite en avant technologique, privilégiant une approche humaine et sociale."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI s'oppose au nucléaire en raison de ses risques et défend une transition vers les énergies renouvelables."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI prône une sortie rapide des énergies fossiles pour lutter contre le réchauffement climatique."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique la croissance comme objectif économique, privilégiant une approche écologique et sociale."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI défend une réforme profonde du système carcéral, privilégiant la réinsertion et les alternatives à la prison."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique les peines minimales obligatoires, défendant une justice individualisée."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend des mesures fortes pour faciliter la réinsertion des anciens détenus."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI prône une justice individualisée, prenant en compte les circonstances et le parcours de vie."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI dénonce les conditions de détention inhumaines et défend des réformes pour les améliorer."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend les libertés individuelles et s'oppose à la surveillance de masse."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI défend la protection des données personnelles et le droit à l'anonymat en ligne."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI prône une justice axée sur la réinsertion plutôt que sur la punition."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique la militarisation de la police et défend une approche plus sociale de la sécurité."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend les libertés civiles et critique les mesures sécuritaires liberticides."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique l'autoritarisme et défend une société basée sur la justice et l'égalité."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique l'approche répressive et défend des peines proportionnées et réinsertives."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI rejette les arrestations préventives comme une atteinte aux libertés individuelles."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Absolument d'accord",
+		"developpement": "LFI soutient les mouvements sociaux et la grève comme outil de lutte pour les droits."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI privilégie les moyens pacifiques et démocratiques pour transformer la société."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une transformation sociale par des moyens démocratiques plutôt que par l'insurrection."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI participe aux élections et aux institutions tout en critiquant leurs limites, prônant une double stratégie."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI critique les limites du système électoral actuel tout en y participant pour le transformer."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI reconnaît le piratage comme une forme de résistance dans certains contextes, notamment contre les multinationales."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI considère le sabotage comme un moyen de lutte acceptable contre des structures oppressives."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend la désobéissance civile comme outil légitime de lutte politique."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI reconnaît les révolutions comme des moments historiques de transformation sociale, malgré leurs complexités."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI défend une transformation radicale de la société pour répondre aux urgences sociales et écologiques."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI privilégie les moyens pacifiques mais reconnaît la complexité des situations de lutte."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique les violences policières mais ne condamne pas systématiquement les violences des manifestants, les contextualisant."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI prône une ligne politique ferme, refusant les compromis qui dilueraient ses propositions."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI reconnaît l'importance des actions individuelles mais insiste sur la nécessité de changements structurels."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend la laïcité et rejette toute forme de prosélytisme religieux."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique les élites économiques mais rejette les théories du complot simplistes."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend une politique clairement idéologique, basée sur la justice sociale et écologique."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LFI défend une république démocratique et rejette toute forme de monarchie."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LFI soutient une transition vers des modes de vie respectueux des animaux, y compris une réduction de la consommation de viande."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LFI critique l'État actuel mais défend sa transformation pour en faire un outil au service de l'intérêt général."
+  }
+]

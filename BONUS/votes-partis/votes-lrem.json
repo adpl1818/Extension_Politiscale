@@ -1,0 +1,704 @@
+[
+	{
+		"index": "Question 1 sur 117",
+		"question": "« On ne naît pas femme, on le devient. »",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient l'égalité des genres et les droits des femmes, mais cette phrase, issue du féminisme existentialiste, pourrait être interprétée de manière nuancée."
+  },
+	{
+		"index": "Question 2 sur 117",
+		"question": "Les différences de traitements et de qualité de vie dans notre société montrent que le racisme est encore très présent.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti reconnaît l'existence de discriminations et soutient des mesures pour lutter contre le racisme, bien que son approche soit souvent critiquée pour son manque de radicalité."
+  },
+	{
+		"index": "Question 3 sur 117",
+		"question": "Les sciences, même la physique ou la biologie, ne sont pas absolues et sont conditionnées par notre société.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM valorise la science et la recherche, mais cette question relève davantage d'un débat philosophique qui n'est pas au cœur de leur programme."
+  },
+	{
+		"index": "Question 4 sur 117",
+		"question": "Les catégories « homme » et « femme » sont des constructions sociales qu'il convient de dépasser.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Bien que progressiste sur les questions de genre, LREM reste ancré dans une vision traditionnelle des identités de genre, sans aller jusqu'à remettre en cause ces catégories."
+  },
+	{
+		"index": "Question 5 sur 117",
+		"question": "Personne n’est prédisposé à la criminalité par sa nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti privilégie une approche sociale et éducative pour lutter contre la criminalité, rejetant les explications biologiques ou essentialistes."
+  },
+	{
+		"index": "Question 6 sur 117",
+		"question": "L'orientation sexuelle est une construction sociale",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM soutient les droits LGBTQ+, mais cette question relève davantage d'un débat académique qui n'est pas central dans leur politique."
+  },
+	{
+		"index": "Question 7 sur 117",
+		"question": "Les différences sociales entre groupes ethniques ne s'expliquent pas par la biologie.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti rejette toute explication biologique des différences sociales et soutient des politiques d'intégration et de lutte contre les discriminations."
+  },
+	{
+		"index": "Question 8 sur 117",
+		"question": "La place des hommes et des femmes dans la société peut être en partie expliquée par la biologie.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM privilégie une explication sociale des inégalités de genre plutôt que biologique."
+  },
+	{
+		"index": "Question 9 sur 117",
+		"question": "Les différences hormonales expliquent certaines différences de traits de caractère entre les hommes et les femmes.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Cette question relève d'un débat scientifique complexe qui n'est pas au cœur des préoccupations du parti."
+  },
+	{
+		"index": "Question 10 sur 117",
+		"question": "Les agressions sexuelles sont en partie causées par les pulsions naturelles des hommes.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM rejette toute justification biologique des agressions sexuelles et soutient des politiques de prévention et de répression."
+  },
+	{
+		"index": "Question 11 sur 117",
+		"question": "Les personnes transgenres ne seront jamais vraiment du genre qu’elles veulent atteindre.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient les droits des personnes transgenres et reconnaît leur identité de genre."
+  },
+	{
+		"index": "Question 12 sur 117",
+		"question": "Les membres d'une même nation ou d'une même culture ont des traits caractéristiques immuables qui les définissent.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM rejette toute essentialisation des cultures ou des nations, prônant une vision universaliste et inclusive."
+  },
+	{
+		"index": "Question 13 sur 117",
+		"question": "Biologiquement, l'espèce humaine est faite pour l'hétérosexualité.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient les droits LGBTQ+ et rejette toute explication biologique de l'orientation sexuelle."
+  },
+	{
+		"index": "Question 14 sur 117",
+		"question": "L'égoïsme est prépondérant dans l'espèce humaine, indépendamment du contexte.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM privilégie une vision optimiste de la nature humaine, soutenant des politiques de solidarité et de coopération."
+  },
+	{
+		"index": "Question 15 sur 117",
+		"question": "À terme, les frontières doivent être supprimées.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le parti est pro-européen et favorable à la libre circulation, mais la suppression totale des frontières n'est pas une position officielle."
+  },
+	{
+		"index": "Question 16 sur 117",
+		"question": "Il faut défendre ses idéaux, même si cela revient à trahir son pays.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM valorise le patriotisme et la loyauté envers la nation, tout en soutenant des valeurs progressistes."
+  },
+	{
+		"index": "Question 17 sur 117",
+		"question": "Mon pays doit payer pour réparer les dégâts causés par les crimes qu'il a commis à l'étranger.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti reconnaît la nécessité de réparations dans certains contextes, comme la colonisation, mais avec une approche pragmatique."
+  },
+	{
+		"index": "Question 18 sur 117",
+		"question": "Si deux pays ont une économie, des systèmes sociaux, et des normes environnementales similaires, alors le libre échange entre eux ne pose aucun problème.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM est favorable au libre-échange, surtout entre pays aux standards similaires."
+  },
+	{
+		"index": "Question 19 sur 117",
+		"question": "Le chauvinisme pendant les compétitions sportives n’est pas acceptable.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti prône le fair-play et le respect, même dans le sport."
+  },
+	{
+		"index": "Question 20 sur 117",
+		"question": "Je me sens autant concerné par les habitants des autres pays que par ceux de mon pays.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM est pro-européen et solidaire, mais reste attaché à la priorité nationale."
+  },
+	{
+		"index": "Question 21 sur 117",
+		"question": "Les étrangers vivant dans mon pays doivent pouvoir agir politiquement à égalité avec les porteurs de la nationalité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti soutient l'intégration des étrangers, mais pas nécessairement l'égalité politique complète."
+  },
+	{
+		"index": "Question 22 sur 117",
+		"question": "Les citoyens doivent être prioritaires par rapport aux étrangers.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM privilégie une approche équilibrée entre solidarité et priorité nationale."
+  },
+	{
+		"index": "Question 23 sur 117",
+		"question": "Les valeurs de mon pays sont supérieures à celles des autres.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend les valeurs républicaines, mais sans prétendre à leur supériorité."
+  },
+	{
+		"index": "Question 24 sur 117",
+		"question": "Le multiculturalisme est un danger pour notre société.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM soutient l'intégration et la diversité, tout en prônant un cadre républicain commun."
+  },
+	{
+		"index": "Question 25 sur 117",
+		"question": "Un bon citoyen est patriote.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise le patriotisme, mais dans un sens inclusif et progressiste."
+  },
+	{
+		"index": "Question 26 sur 117",
+		"question": "Il est légitime pour un pays d'intervenir militairement à l'étranger pour défendre ses intérêts économiques.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM soutient les interventions militaires dans certains cas, mais pas uniquement pour des raisons économiques."
+  },
+	{
+		"index": "Question 27 sur 117",
+		"question": "Il faut enseigner l'Histoire d'une façon qui permet de créer un sentiment d'appartenance à la nation.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise l'enseignement de l'Histoire comme outil de cohésion nationale."
+  },
+	{
+		"index": "Question 28 sur 117",
+		"question": "La recherche produite par mon pays ne devrait pas être accessible aux autres.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM soutient la coopération internationale en matière de recherche."
+  },
+	{
+		"index": "Question 29 sur 117",
+		"question": "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient l'économie de marché et la propriété privée."
+  },
+	{
+		"index": "Question 30 sur 117",
+		"question": "Le salariat par une entreprise privée est une forme de vol contre les travailleurs.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend le modèle économique actuel et le rôle des entreprises privées."
+  },
+	{
+		"index": "Question 31 sur 117",
+		"question": "Il est important que la santé reste du domaine public.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient un système de santé public, tout en étant ouvert à des partenariats avec le privé."
+  },
+	{
+		"index": "Question 32 sur 117",
+		"question": "L'énergie et les infrastructures de transport doivent être publiques.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM est ouvert à des modèles mixtes, combinant public et privé."
+  },
+	{
+		"index": "Question 33 sur 117",
+		"question": "Les brevets ne devraient pas exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient la propriété intellectuelle comme moteur de l'innovation."
+  },
+	{
+		"index": "Question 34 sur 117",
+		"question": "Il faut mettre en place des assemblées pour rationner les productions vers les consommateurs en fonction des besoins.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM privilégie le marché et l'initiative individuelle plutôt qu'une planification centralisée."
+  },
+	{
+		"index": "Question 35 sur 117",
+		"question": "Le marché du travail surexploite les travailleurs.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le parti reconnaît des déséquilibres, mais soutient des réformes progressives plutôt qu'une remise en cause du système."
+  },
+	{
+		"index": "Question 36 sur 117",
+		"question": "La recherche de son profit personnel est saine pour l'économie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM défend l'économie de marché et l'initiative individuelle."
+  },
+	{
+		"index": "Question 37 sur 117",
+		"question": "C'est le mérite qui explique la différence de richesse entre deux personnes.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise le mérite, tout en reconnaissant l'importance des politiques de redistribution."
+  },
+	{
+		"index": "Question 38 sur 117",
+		"question": "Il n'y a pas de problème à ce que certaines écoles et universités puissent être privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient un système éducatif mixte, public et privé."
+  },
+	{
+		"index": "Question 39 sur 117",
+		"question": "Les délocalisations sont un mal nécessaire pour améliorer la production.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le parti reconnaît les avantages économiques, mais aussi les impacts sociaux négatifs."
+  },
+	{
+		"index": "Question 40 sur 117",
+		"question": "Il est acceptable qu'il y ait des riches et des pauvres.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM défend l'économie de marché, tout en soutenant des politiques de redistribution."
+  },
+	{
+		"index": "Question 41 sur 117",
+		"question": "Il est acceptable que certains secteurs de l'industrie soient privés.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient l'économie de marché et la propriété privée."
+  },
+	{
+		"index": "Question 42 sur 117",
+		"question": "Les banques doivent rester privées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM défend un système bancaire privé, régulé par l'État."
+  },
+	{
+		"index": "Question 43 sur 117",
+		"question": "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une fiscalité redistributive, mais dans une logique modérée."
+  },
+	{
+		"index": "Question 44 sur 117",
+		"question": "Nous devrions partir à la retraite plus tard.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient des réformes des retraites pour assurer la viabilité du système."
+  },
+	{
+		"index": "Question 45 sur 117",
+		"question": "Les licenciements doivent être interdits sauf dans des cas justifiés.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie la flexibilité du marché du travail, tout en protégeant les travailleurs."
+  },
+	{
+		"index": "Question 46 sur 117",
+		"question": "Le niveau des salaires doit être contrôlé pour garantir qu’un travailleur puisse vivre de son travail.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient un salaire minimum et des politiques de soutien aux travailleurs."
+  },
+	{
+		"index": "Question 47 sur 117",
+		"question": "Il est nécessaire d’empêcher la création de monopoles privés.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une régulation pour éviter les abus de position dominante."
+  },
+	{
+		"index": "Question 48 sur 117",
+		"question": "Les prêts contractés par la sphère publique (États, régions, collectivités, ...) ne doivent pas nécessairement être remboursés.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend une gestion rigoureuse des finances publiques."
+  },
+	{
+		"index": "Question 49 sur 117",
+		"question": "Il faut subventionner certains secteurs ou certains types d'emploi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient des subventions ciblées pour soutenir l'économie et l'emploi."
+  },
+	{
+		"index": "Question 50 sur 117",
+		"question": "L'économie de marché est optimale quand elle n'est pas régulée.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM défend une régulation modérée de l'économie de marché."
+  },
+	{
+		"index": "Question 51 sur 117",
+		"question": "Actuellement, un salarié seul est libre de ses choix lors de la signature de son contrat avec son futur employeur.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti reconnaît des déséquilibres de pouvoir entre employeurs et employés."
+  },
+	{
+		"index": "Question 52 sur 117",
+		"question": "Il faut supprimer des règlementations dans le code du travail pour encourager les entreprises à embaucher.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient des réformes pour simplifier le code du travail et favoriser l'emploi."
+  },
+	{
+		"index": "Question 53 sur 117",
+		"question": "Le temps de travail par semaine devrait être augmenté.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie une approche équilibrée entre productivité et qualité de vie."
+  },
+	{
+		"index": "Question 54 sur 117",
+		"question": "C'est par la consommation que les normes environnementales doivent émerger, et non par une autorité.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM soutient une régulation publique pour atteindre les objectifs environnementaux."
+  },
+	{
+		"index": "Question 55 sur 117",
+		"question": "Les aides sociales dissuadent de travailler.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend un système de protection sociale tout en encourageant le retour à l'emploi."
+  },
+	{
+		"index": "Question 56 sur 117",
+		"question": "Les entreprises publiques doivent être administrées comme des entreprises privées et suivre la logique du marché (concurrence, rentabilité, ...).",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM privilégie une gestion efficace des entreprises publiques, inspirée du privé."
+  },
+	{
+		"index": "Question 57 sur 117",
+		"question": "Toute tradition doit pouvoir être remise en question.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti est progressiste et ouvert à la modernisation des traditions."
+  },
+	{
+		"index": "Question 58 sur 117",
+		"question": "Je n'ai aucun problème avec le fait que d'autres langues officielles soient ajoutées ou remplacent la langue officielle existante de mon pays.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM défend la primauté du français comme langue officielle, tout en valorisant le multilinguisme."
+  },
+	{
+		"index": "Question 59 sur 117",
+		"question": "Il faut supprimer le mariage.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti soutient le mariage comme institution, y compris le mariage pour tous."
+  },
+	{
+		"index": "Question 60 sur 117",
+		"question": "Les étrangers enrichissent notre culture.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM valorise la diversité culturelle et l'intégration des étrangers."
+  },
+	{
+		"index": "Question 61 sur 117",
+		"question": "L'influence de la religion doit diminuer.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend la laïcité et une séparation stricte entre religion et État."
+  },
+	{
+		"index": "Question 62 sur 117",
+		"question": "Une langue est définie par ceux qui l'utilisent et non pas par des académiciens.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM valorise la langue française, mais reconnaît son évolution naturelle."
+  },
+	{
+		"index": "Question 63 sur 117",
+		"question": "L'euthanasie doit être autorisée.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti est ouvert à un débat sur l'euthanasie, dans un cadre strictement régulé."
+  },
+	{
+		"index": "Question 64 sur 117",
+		"question": "Les homosexuels n'ont pas à être traité à égalité avec les hétérosexuels en ce qui concerne le mariage, la filiation, l'adoption ou la procréation.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM soutient l'égalité des droits pour les personnes LGBTQ+."
+  },
+	{
+		"index": "Question 65 sur 117",
+		"question": "Dans certaines conditions, la peine de mort est justifiée.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti est fermement opposé à la peine de mort."
+  },
+	{
+		"index": "Question 66 sur 117",
+		"question": "Les progrès techniques ne doivent pas changer trop rapidement la société.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM soutient l'innovation, mais reconnaît la nécessité d'une régulation."
+  },
+	{
+		"index": "Question 67 sur 117",
+		"question": "L'école doit principalement enseigner nos valeurs, nos traditions et les connaissances fondamentales.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise l'éducation comme vecteur de transmission des valeurs républicaines."
+  },
+	{
+		"index": "Question 68 sur 117",
+		"question": "L'avortement devrait être limité à des cas précis.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend le droit à l'avortement sans restrictions."
+  },
+	{
+		"index": "Question 69 sur 117",
+		"question": "Le but principal d'un couple doit être de faire au moins un enfant.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend la liberté de choix en matière de parentalité."
+  },
+	{
+		"index": "Question 70 sur 117",
+		"question": "L'abstinence devrait être préférée à la contraception pour préserver la vraie nature de l'acte sexuel.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM soutient l'éducation sexuelle et l'accès à la contraception."
+  },
+	{
+		"index": "Question 71 sur 117",
+		"question": "Il n'est pas acceptable que les actions humaines entraînent des extinctions d'espèces.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient la protection de la biodiversité et des écosystèmes."
+  },
+	{
+		"index": "Question 72 sur 117",
+		"question": "Les OGM doivent être interdits en dehors de la recherche ou du secteur médical.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM est ouvert aux OGM sous condition de régulation stricte."
+  },
+	{
+		"index": "Question 73 sur 117",
+		"question": "Le réchauffement climatique doit être combattu.",
+		"reponse": "Absolument d'accord",
+		"developpement": "Le parti soutient des politiques ambitieuses pour lutter contre le changement climatique."
+  },
+	{
+		"index": "Question 74 sur 117",
+		"question": "Nous devons accepter de changer notre mode de consommation alimentaire pour limiter l'exploitation de la nature.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM encourage une transition écologique, y compris dans les habitudes alimentaires."
+  },
+	{
+		"index": "Question 75 sur 117",
+		"question": "Il est important d'encourager une agriculture qui maintienne une biodiversité alimentaire, même si son rendement est inférieur.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une agriculture durable et respectueuse de l'environnement."
+  },
+	{
+		"index": "Question 76 sur 117",
+		"question": "Préserver les écosystèmes non-urbains est plus important que de créer des emplois.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM cherche un équilibre entre protection de l'environnement et développement économique."
+  },
+	{
+		"index": "Question 77 sur 117",
+		"question": "La réduction des déchets doit se faire par une réduction de la production.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une économie circulaire et la réduction des déchets à la source."
+  },
+	{
+		"index": "Question 78 sur 117",
+		"question": "La colonisation spatiale est une bonne solution pour subvenir au manque de matières premières sur Terre (le fer, les métaux rares, le pétrole...)",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM soutient la recherche spatiale, mais ne la considère pas comme une solution prioritaire."
+  },
+	{
+		"index": "Question 79 sur 117",
+		"question": "Transformer durablement les écosystèmes pour augmenter la qualité de vie des humains est légitime.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient un développement durable, mais avec une attention à la préservation des écosystèmes."
+  },
+	{
+		"index": "Question 80 sur 117",
+		"question": "Il faut massivement investir dans la recherche pour améliorer la productivité.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM valorise la recherche et l'innovation comme moteurs de croissance."
+  },
+	{
+		"index": "Question 81 sur 117",
+		"question": "Le transhumanisme sera bénéfique car il nous permettra d’améliorer nos capacités.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "Le parti est ouvert aux avancées technologiques, mais avec prudence."
+  },
+	{
+		"index": "Question 82 sur 117",
+		"question": "La fission nucléaire, quand elle est bien entretenue, est une bonne source d'énergie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient le nucléaire comme source d'énergie décarbonée."
+  },
+	{
+		"index": "Question 83 sur 117",
+		"question": "L'exploitation des énergies fossiles est nécessaire.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti privilégie une transition vers les énergies renouvelables."
+  },
+	{
+		"index": "Question 84 sur 117",
+		"question": "Maintenir une croissance économique forte doit être un objectif du gouvernement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM soutient une croissance durable et inclusive."
+  },
+	{
+		"index": "Question 85 sur 117",
+		"question": "Les prisons ne devraient plus exister.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend une réforme du système pénitentiaire, mais pas sa suppression."
+  },
+	{
+		"index": "Question 86 sur 117",
+		"question": "Il est injuste de fixer une peine minimale pour un délit ou un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM soutient une justice équitable, mais avec des peines proportionnées."
+  },
+	{
+		"index": "Question 87 sur 117",
+		"question": "Les personnes sortant de prison doivent être accompagnées dans leur réinsertion.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient des politiques de réinsertion pour réduire la récidive."
+  },
+	{
+		"index": "Question 88 sur 117",
+		"question": "La justice doit toujours prendre en compte le contexte et le passé du condamné et adapter les peines en fonction.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM privilégie une justice individualisée et équitable."
+  },
+	{
+		"index": "Question 89 sur 117",
+		"question": "Les conditions de vie des détenus doivent être grandement améliorées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une réforme des prisons pour améliorer les conditions de détention."
+  },
+	{
+		"index": "Question 90 sur 117",
+		"question": "Le fichage doit être très encadré et le recoupage des base de données interdit.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM défend la protection des données personnelles et la vie privée."
+  },
+	{
+		"index": "Question 91 sur 117",
+		"question": "Il faut garantir le droit d'être anonyme sur Internet.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient la protection de l'anonymat en ligne, dans un cadre régulé."
+  },
+	{
+		"index": "Question 92 sur 117",
+		"question": "Le but du système judiciaire doit être de punir ceux qui ont enfreint la loi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM défend une justice qui punit, mais aussi qui réhabilite."
+  },
+	{
+		"index": "Question 93 sur 117",
+		"question": "La police doit être armée.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti soutient une police équipée pour assurer la sécurité publique."
+  },
+	{
+		"index": "Question 94 sur 117",
+		"question": "Le sacrifice de certaines libertés civiles est nécessaire pour se protéger des actes de terrorisme.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM cherche un équilibre entre sécurité et libertés individuelles."
+  },
+	{
+		"index": "Question 95 sur 117",
+		"question": "L'ordre et l'autorité doivent être respectés en toute circonstance.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti valorise l'ordre public, mais dans le respect des droits fondamentaux."
+  },
+	{
+		"index": "Question 96 sur 117",
+		"question": "Les peines lourdes sont efficaces car elles sont dissuasives.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM privilégie une approche équilibrée entre dissuasion et réhabilitation."
+  },
+	{
+		"index": "Question 97 sur 117",
+		"question": "Il vaut mieux arrêter préventivement une personne potentiellement dangereuse que de courir le risque qu'elle commette un crime.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "Le parti défend les libertés individuelles et s'oppose à des mesures préventives excessives."
+  },
+	{
+		"index": "Question 98 sur 117",
+		"question": "La grève générale est une bonne façon d'obtenir de nouveaux droits.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM privilégie le dialogue social plutôt que les conflits."
+  },
+	{
+		"index": "Question 99 sur 117",
+		"question": "La lutte armée au sein d'un pays est parfois nécessaire.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette toute forme de violence politique."
+  },
+	{
+		"index": "Question 100 sur 117",
+		"question": "L'insurrection est nécessaire pour transformer la société en profondeur.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend des réformes progressives et démocratiques."
+  },
+	{
+		"index": "Question 101 sur 117",
+		"question": "Militer au sein des institutions politiques en place n’est pas pertinent pour transformer la société.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti croit en l'action politique institutionnelle pour mener des réformes."
+  },
+	{
+		"index": "Question 102 sur 117",
+		"question": "Les élections organisées par l'État ne peuvent pas remettre en question les pouvoirs en place.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend la démocratie et la possibilité de changer les gouvernements par les urnes."
+  },
+	{
+		"index": "Question 103 sur 117",
+		"question": "Le piratage informatique est un moyen légitime de lutte politique.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette toute forme de cybercriminalité, même à des fins politiques."
+  },
+	{
+		"index": "Question 104 sur 117",
+		"question": "Le sabotage est légitime dans certaines conditions.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM rejette toute forme de violence ou de sabotage."
+  },
+	{
+		"index": "Question 105 sur 117",
+		"question": "Il faut toujours militer dans le strict respect de la loi.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti défend l'action politique légale et pacifique."
+  },
+	{
+		"index": "Question 106 sur 117",
+		"question": "Les révolutions sont condamnées à toujours finir mal.",
+		"reponse": "Neutre ou hésitant",
+		"developpement": "LREM privilégie les réformes progressives plutôt que les révolutions."
+  },
+	{
+		"index": "Question 107 sur 117",
+		"question": "Changer le système de façon radicale est contre-productif. Il faut plutôt transformer la société progressivement.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti croit en des réformes progressives et pragmatiques."
+  },
+	{
+		"index": "Question 108 sur 117",
+		"question": "La violence contre les personnes n'est jamais une solution.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM rejette la violence comme moyen d'action politique."
+  },
+	{
+		"index": "Question 109 sur 117",
+		"question": "Il faut toujours se désolidariser des violences commises par les manifestants.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti condamne les violences lors des manifestations."
+  },
+	{
+		"index": "Question 110 sur 117",
+		"question": "Il faut faire des compromis avec l'opposition pour faire passer certaines de nos idées.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM privilégie le dialogue et les compromis pour faire avancer ses réformes."
+  },
+	{
+		"index": "Question 111 sur 117",
+		"question": "Les changements dans le mode de vie d’un individu peut provoquer des changements de société.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "Le parti croit en l'impact des actions individuelles sur la société."
+  },
+	{
+		"index": "Question 112 sur 117",
+		"question": "Ma religion doit se diffuser le plus largement possible.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "LREM défend la laïcité et la neutralité religieuse de l'État."
+  },
+	{
+		"index": "Question 113 sur 117",
+		"question": "C'est un petit groupe qui contrôle secrètement et consciemment le monde.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti rejette les théories du complot."
+  },
+	{
+		"index": "Question 114 sur 117",
+		"question": "Une bonne politique, c'est une politique pragmatique et sans idéologie.",
+		"reponse": "Plutôt d'accord",
+		"developpement": "LREM se définit comme un parti pragmatique et centriste."
+  },
+	{
+		"index": "Question 115 sur 117",
+		"question": "Il faut mettre en place une monarchie afin de fédérer le peuple et préserver notre souveraineté.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend la République et la démocratie."
+  },
+	{
+		"index": "Question 116 sur 117",
+		"question": "Les humains ne doivent ni manger, ni exploiter les animaux.",
+		"reponse": "Plutôt pas d'accord",
+		"developpement": "LREM soutient une agriculture respectueuse des animaux, mais ne prône pas leur non-exploitation."
+  },
+	{
+		"index": "Question 117 sur 117",
+		"question": "L’État doit être aboli.",
+		"reponse": "Absolument pas d'accord",
+		"developpement": "Le parti défend un État fort et régulateur."
+  }
+]
