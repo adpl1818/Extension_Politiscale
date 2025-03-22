@@ -407,7 +407,7 @@ function displayTopParties() {
 				const logoFileName = parti.replace(/_/g, '-') + '.png';
 				logoImg.src = chrome.runtime.getURL(`logos-partis/${logoFileName}`);
 				logoImg.alt = partiNames[parti] || parti;
-				logoImg.style.height = '60px'; // Hauteur fixe
+				logoImg.style.height = '40px'; // Hauteur fixe
 				logoImg.style.width = '60px'; // Largeur fixe pour uniformité
 				logoImg.style.objectFit = 'contain'; // Maintenir les proportions
 				logoImg.style.display = 'block'; // Afficher comme bloc
